@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Prediction Result</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #141e30, #243b55);
+      font-family: 'Segoe UI', sans-serif;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+    .result-box {
+      background: rgba(255, 255, 255, 0.05);
+      padding: 30px 40px;
+      border-radius: 15px;
+      text-align: center;
+      box-shadow: 0 0 20px rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+    }
+    .result-box h2 {
+      margin-bottom: 15px;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      color: black;
+      background: #00f0ff;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: box-shadow 0.3s ease;
+    }
+    a:hover {
+      box-shadow: 0 0 15px 3px rgba(0, 255, 255, 0.7);
+    }
+  </style>
+</head>
+<body>
+  <div class="result-box">
+    <h2>🏏 Match Prediction</h2>
+    <p>{{ prediction }}</p>
+    <a href="/">🔁 Try Another</a>
+  </div>
+</body>
+</html>

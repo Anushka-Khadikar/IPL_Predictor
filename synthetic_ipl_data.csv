@@ -1,0 +1,1001 @@
+batting_team,bowling_team,venue,target_score,current_score,overs_left,wickets_left,winner
+Chennai Super Kings,Punjab Kings,Eden Gardens,206,101,0.3,10,0
+Chennai Super Kings,Punjab Kings,MA Chidambaram Stadium,189,78,7.6,1,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Feroz Shah Kotla,125,18,10.9,3,0
+Mumbai Indians,Royal Challengers Bangalore,Feroz Shah Kotla,143,45,9.7,9,1
+Kolkata Knight Riders,Mumbai Indians,M. Chinnaswamy Stadium,170,7,5.1,10,0
+Sunrisers Hyderabad,Chennai Super Kings,MA Chidambaram Stadium,214,64,9.4,6,0
+Punjab Kings,Rajasthan Royals,M. Chinnaswamy Stadium,202,170,5.6,4,1
+Kolkata Knight Riders,Chennai Super Kings,MA Chidambaram Stadium,145,102,3.1,8,1
+Royal Challengers Bangalore,Rajasthan Royals,Eden Gardens,204,157,17.2,2,1
+Royal Challengers Bangalore,Punjab Kings,Eden Gardens,122,24,6.7,4,0
+Delhi Capitals,Rajasthan Royals,Eden Gardens,135,48,1.4,7,0
+Kolkata Knight Riders,Mumbai Indians,Wankhede Stadium,173,70,8.4,10,1
+Delhi Capitals,Mumbai Indians,Eden Gardens,126,30,18.6,7,1
+Punjab Kings,Delhi Capitals,M. Chinnaswamy Stadium,200,31,5.9,7,0
+Royal Challengers Bangalore,Kolkata Knight Riders,Wankhede Stadium,142,108,5.3,10,1
+Kolkata Knight Riders,Punjab Kings,Wankhede Stadium,167,89,6.6,5,0
+Punjab Kings,Sunrisers Hyderabad,Eden Gardens,141,89,15.5,6,1
+Kolkata Knight Riders,Chennai Super Kings,Feroz Shah Kotla,212,189,13.4,8,1
+Royal Challengers Bangalore,Chennai Super Kings,Feroz Shah Kotla,121,54,0.6,9,0
+Sunrisers Hyderabad,Rajasthan Royals,Eden Gardens,189,5,8.0,7,0
+Kolkata Knight Riders,Rajasthan Royals,Feroz Shah Kotla,121,60,16.8,4,1
+Royal Challengers Bangalore,Chennai Super Kings,Eden Gardens,176,20,18.8,10,1
+Kolkata Knight Riders,Rajasthan Royals,Narendra Modi Stadium,204,187,14.7,6,1
+Delhi Capitals,Royal Challengers Bangalore,M. Chinnaswamy Stadium,155,89,14.1,1,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,MA Chidambaram Stadium,150,135,18.0,10,1
+Sunrisers Hyderabad,Delhi Capitals,Eden Gardens,207,133,18.0,7,1
+Chennai Super Kings,Rajasthan Royals,MA Chidambaram Stadium,148,91,4.6,6,0
+Delhi Capitals,Punjab Kings,Eden Gardens,134,129,10.8,7,1
+Punjab Kings,Royal Challengers Bangalore,Eden Gardens,130,89,17.0,3,1
+Sunrisers Hyderabad,Rajasthan Royals,Wankhede Stadium,121,51,15.0,1,0
+Rajasthan Royals,Sunrisers Hyderabad,Narendra Modi Stadium,152,97,13.6,3,1
+Chennai Super Kings,Rajasthan Royals,Eden Gardens,207,202,2.5,7,1
+Rajasthan Royals,Delhi Capitals,Wankhede Stadium,209,87,7.7,9,0
+Punjab Kings,Mumbai Indians,Narendra Modi Stadium,121,92,8.5,3,1
+Sunrisers Hyderabad,Mumbai Indians,Wankhede Stadium,183,73,18.8,2,0
+Mumbai Indians,Punjab Kings,MA Chidambaram Stadium,213,21,19.0,6,0
+Kolkata Knight Riders,Sunrisers Hyderabad,M. Chinnaswamy Stadium,212,21,7.7,10,0
+Rajasthan Royals,Punjab Kings,Feroz Shah Kotla,136,36,14.7,0,0
+Rajasthan Royals,Sunrisers Hyderabad,Feroz Shah Kotla,201,150,13.4,2,1
+Chennai Super Kings,Mumbai Indians,M. Chinnaswamy Stadium,129,64,5.3,2,0
+Delhi Capitals,Kolkata Knight Riders,Feroz Shah Kotla,168,78,9.7,8,1
+Delhi Capitals,Punjab Kings,MA Chidambaram Stadium,139,95,9.7,10,1
+Punjab Kings,Kolkata Knight Riders,Narendra Modi Stadium,164,2,4.2,2,0
+Mumbai Indians,Sunrisers Hyderabad,Feroz Shah Kotla,165,91,9.6,0,0
+Royal Challengers Bangalore,Delhi Capitals,M. Chinnaswamy Stadium,139,74,8.3,3,0
+Sunrisers Hyderabad,Rajasthan Royals,M. Chinnaswamy Stadium,189,89,12.1,10,1
+Royal Challengers Bangalore,Mumbai Indians,M. Chinnaswamy Stadium,121,14,17.6,1,0
+Mumbai Indians,Royal Challengers Bangalore,M. Chinnaswamy Stadium,190,133,4.8,1,0
+Mumbai Indians,Royal Challengers Bangalore,MA Chidambaram Stadium,176,116,1.1,5,0
+Chennai Super Kings,Kolkata Knight Riders,Narendra Modi Stadium,217,185,10.8,4,1
+Rajasthan Royals,Delhi Capitals,Eden Gardens,166,106,1.1,8,0
+Chennai Super Kings,Kolkata Knight Riders,Feroz Shah Kotla,143,129,8.2,2,1
+Mumbai Indians,Delhi Capitals,M. Chinnaswamy Stadium,171,139,2.2,5,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,M. Chinnaswamy Stadium,191,128,4.8,7,0
+Chennai Super Kings,Royal Challengers Bangalore,Wankhede Stadium,190,18,0.8,6,0
+Punjab Kings,Mumbai Indians,M. Chinnaswamy Stadium,135,106,16.0,7,1
+Chennai Super Kings,Rajasthan Royals,Narendra Modi Stadium,206,123,1.6,7,0
+Royal Challengers Bangalore,Punjab Kings,Feroz Shah Kotla,169,72,4.1,4,0
+Kolkata Knight Riders,Royal Challengers Bangalore,MA Chidambaram Stadium,179,22,9.3,5,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Narendra Modi Stadium,192,59,4.3,6,0
+Royal Challengers Bangalore,Rajasthan Royals,Feroz Shah Kotla,218,57,12.0,9,0
+Delhi Capitals,Mumbai Indians,MA Chidambaram Stadium,158,87,4.3,8,0
+Rajasthan Royals,Chennai Super Kings,M. Chinnaswamy Stadium,208,129,6.5,2,0
+Royal Challengers Bangalore,Mumbai Indians,Eden Gardens,171,170,10.5,10,1
+Delhi Capitals,Sunrisers Hyderabad,Feroz Shah Kotla,151,5,16.5,3,0
+Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,161,136,12.7,4,1
+Rajasthan Royals,Sunrisers Hyderabad,Narendra Modi Stadium,146,4,19.7,9,0
+Rajasthan Royals,Royal Challengers Bangalore,Eden Gardens,215,86,1.1,6,0
+Chennai Super Kings,Mumbai Indians,Eden Gardens,139,113,16.3,1,1
+Chennai Super Kings,Mumbai Indians,Narendra Modi Stadium,165,86,7.6,10,1
+Royal Challengers Bangalore,Mumbai Indians,M. Chinnaswamy Stadium,136,116,16.6,4,1
+Chennai Super Kings,Rajasthan Royals,Narendra Modi Stadium,209,164,16.5,8,1
+Mumbai Indians,Punjab Kings,MA Chidambaram Stadium,125,60,7.2,4,0
+Sunrisers Hyderabad,Chennai Super Kings,M. Chinnaswamy Stadium,153,20,2.7,5,0
+Rajasthan Royals,Mumbai Indians,M. Chinnaswamy Stadium,141,57,18.0,10,1
+Chennai Super Kings,Delhi Capitals,Feroz Shah Kotla,201,6,11.1,10,0
+Kolkata Knight Riders,Royal Challengers Bangalore,MA Chidambaram Stadium,201,123,3.7,5,0
+Rajasthan Royals,Sunrisers Hyderabad,MA Chidambaram Stadium,159,93,5.0,9,1
+Mumbai Indians,Delhi Capitals,M. Chinnaswamy Stadium,185,68,6.6,9,0
+Mumbai Indians,Sunrisers Hyderabad,MA Chidambaram Stadium,203,177,8.6,6,1
+Punjab Kings,Chennai Super Kings,Wankhede Stadium,206,49,10.7,9,0
+Punjab Kings,Sunrisers Hyderabad,M. Chinnaswamy Stadium,120,116,5.1,2,1
+Kolkata Knight Riders,Punjab Kings,MA Chidambaram Stadium,129,117,11.5,2,1
+Royal Challengers Bangalore,Chennai Super Kings,MA Chidambaram Stadium,217,168,3.0,6,0
+Mumbai Indians,Punjab Kings,Wankhede Stadium,145,103,0.2,9,0
+Sunrisers Hyderabad,Punjab Kings,MA Chidambaram Stadium,193,179,9.4,6,1
+Kolkata Knight Riders,Sunrisers Hyderabad,Narendra Modi Stadium,171,144,14.7,9,1
+Sunrisers Hyderabad,Punjab Kings,M. Chinnaswamy Stadium,209,39,8.0,2,0
+Punjab Kings,Royal Challengers Bangalore,Narendra Modi Stadium,128,89,15.6,0,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Feroz Shah Kotla,186,22,1.4,9,0
+Royal Challengers Bangalore,Kolkata Knight Riders,M. Chinnaswamy Stadium,206,126,18.3,0,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,Eden Gardens,165,55,7.0,5,0
+Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,157,136,18.6,6,1
+Punjab Kings,Mumbai Indians,Narendra Modi Stadium,131,12,3.4,8,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,MA Chidambaram Stadium,186,63,12.2,7,0
+Rajasthan Royals,Kolkata Knight Riders,Wankhede Stadium,195,135,3.5,8,0
+Sunrisers Hyderabad,Chennai Super Kings,Wankhede Stadium,152,31,19.1,5,0
+Chennai Super Kings,Punjab Kings,Narendra Modi Stadium,142,100,18.1,2,1
+Mumbai Indians,Kolkata Knight Riders,M. Chinnaswamy Stadium,123,88,1.1,7,0
+Punjab Kings,Kolkata Knight Riders,M. Chinnaswamy Stadium,135,96,16.4,0,1
+Chennai Super Kings,Delhi Capitals,Feroz Shah Kotla,158,108,10.8,8,1
+Rajasthan Royals,Kolkata Knight Riders,MA Chidambaram Stadium,145,38,4.4,5,0
+Royal Challengers Bangalore,Rajasthan Royals,Eden Gardens,177,140,16.3,2,1
+Chennai Super Kings,Rajasthan Royals,Eden Gardens,138,12,4.8,7,0
+Royal Challengers Bangalore,Chennai Super Kings,Wankhede Stadium,201,131,8.9,8,1
+Chennai Super Kings,Kolkata Knight Riders,Eden Gardens,164,110,1.1,1,0
+Punjab Kings,Kolkata Knight Riders,Feroz Shah Kotla,202,179,12.3,2,1
+Sunrisers Hyderabad,Punjab Kings,MA Chidambaram Stadium,133,129,4.8,2,1
+Chennai Super Kings,Royal Challengers Bangalore,Narendra Modi Stadium,141,45,4.5,4,0
+Rajasthan Royals,Delhi Capitals,MA Chidambaram Stadium,167,80,19.6,0,0
+Rajasthan Royals,Delhi Capitals,Narendra Modi Stadium,149,33,18.0,4,0
+Chennai Super Kings,Sunrisers Hyderabad,Narendra Modi Stadium,137,24,4.7,3,0
+Chennai Super Kings,Royal Challengers Bangalore,Narendra Modi Stadium,142,119,0.7,6,0
+Chennai Super Kings,Rajasthan Royals,M. Chinnaswamy Stadium,213,27,17.9,7,0
+Royal Challengers Bangalore,Chennai Super Kings,Feroz Shah Kotla,139,32,18.6,6,0
+Mumbai Indians,Kolkata Knight Riders,Eden Gardens,126,24,0.4,3,0
+Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,202,185,9.3,9,1
+Kolkata Knight Riders,Chennai Super Kings,Narendra Modi Stadium,122,106,16.3,1,1
+Mumbai Indians,Royal Challengers Bangalore,Narendra Modi Stadium,190,142,13.9,1,1
+Punjab Kings,Royal Challengers Bangalore,MA Chidambaram Stadium,151,24,13.9,8,0
+Chennai Super Kings,Rajasthan Royals,MA Chidambaram Stadium,184,159,0.6,4,0
+Royal Challengers Bangalore,Chennai Super Kings,Narendra Modi Stadium,168,146,8.5,1,1
+Chennai Super Kings,Delhi Capitals,Eden Gardens,184,69,2.6,8,0
+Mumbai Indians,Punjab Kings,Eden Gardens,143,43,4.2,5,0
+Delhi Capitals,Royal Challengers Bangalore,MA Chidambaram Stadium,178,84,5.3,8,0
+Mumbai Indians,Punjab Kings,Eden Gardens,195,59,15.9,8,1
+Mumbai Indians,Rajasthan Royals,Eden Gardens,185,36,1.5,6,0
+Delhi Capitals,Mumbai Indians,Wankhede Stadium,184,142,8.9,10,1
+Mumbai Indians,Chennai Super Kings,Narendra Modi Stadium,139,80,7.3,2,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Feroz Shah Kotla,141,110,4.3,6,1
+Sunrisers Hyderabad,Mumbai Indians,Feroz Shah Kotla,128,10,18.2,1,0
+Sunrisers Hyderabad,Mumbai Indians,MA Chidambaram Stadium,176,34,16.0,3,0
+Sunrisers Hyderabad,Mumbai Indians,Narendra Modi Stadium,171,137,19.2,9,1
+Chennai Super Kings,Kolkata Knight Riders,Narendra Modi Stadium,201,126,1.4,8,0
+Punjab Kings,Delhi Capitals,MA Chidambaram Stadium,143,114,19.2,7,1
+Punjab Kings,Royal Challengers Bangalore,Narendra Modi Stadium,152,125,18.3,1,1
+Mumbai Indians,Punjab Kings,Eden Gardens,128,36,7.4,3,0
+Mumbai Indians,Rajasthan Royals,MA Chidambaram Stadium,167,97,4.4,2,0
+Rajasthan Royals,Delhi Capitals,Wankhede Stadium,194,106,2.5,8,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Narendra Modi Stadium,159,35,19.7,2,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Feroz Shah Kotla,201,20,17.9,8,0
+Sunrisers Hyderabad,Kolkata Knight Riders,M. Chinnaswamy Stadium,138,81,11.9,6,1
+Punjab Kings,Chennai Super Kings,Narendra Modi Stadium,191,25,19.9,2,0
+Sunrisers Hyderabad,Chennai Super Kings,Wankhede Stadium,186,100,12.7,2,0
+Kolkata Knight Riders,Punjab Kings,Eden Gardens,126,108,7.6,3,1
+Punjab Kings,Mumbai Indians,Eden Gardens,172,101,7.9,0,0
+Chennai Super Kings,Sunrisers Hyderabad,Narendra Modi Stadium,168,72,8.6,6,0
+Mumbai Indians,Sunrisers Hyderabad,Eden Gardens,184,108,5.5,8,0
+Chennai Super Kings,Royal Challengers Bangalore,M. Chinnaswamy Stadium,147,65,14.9,7,1
+Delhi Capitals,Kolkata Knight Riders,M. Chinnaswamy Stadium,171,92,12.3,6,1
+Chennai Super Kings,Rajasthan Royals,Eden Gardens,219,212,13.6,7,1
+Sunrisers Hyderabad,Punjab Kings,Eden Gardens,129,52,8.3,7,0
+Mumbai Indians,Rajasthan Royals,M. Chinnaswamy Stadium,200,147,10.3,1,0
+Punjab Kings,Sunrisers Hyderabad,MA Chidambaram Stadium,220,205,13.9,7,1
+Sunrisers Hyderabad,Mumbai Indians,M. Chinnaswamy Stadium,170,145,15.8,1,1
+Mumbai Indians,Chennai Super Kings,Feroz Shah Kotla,159,96,13.2,10,1
+Rajasthan Royals,Sunrisers Hyderabad,MA Chidambaram Stadium,157,62,13.3,8,1
+Rajasthan Royals,Royal Challengers Bangalore,MA Chidambaram Stadium,194,20,4.6,1,0
+Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,167,124,15.9,7,1
+Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,128,2,2.4,9,0
+Mumbai Indians,Royal Challengers Bangalore,MA Chidambaram Stadium,135,25,1.9,3,0
+Kolkata Knight Riders,Mumbai Indians,Eden Gardens,139,63,13.3,3,0
+Delhi Capitals,Kolkata Knight Riders,Eden Gardens,198,8,15.9,6,0
+Royal Challengers Bangalore,Delhi Capitals,Feroz Shah Kotla,207,147,13.5,5,1
+Rajasthan Royals,Mumbai Indians,Eden Gardens,173,110,8.5,3,0
+Delhi Capitals,Mumbai Indians,Narendra Modi Stadium,166,70,10.7,4,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,Feroz Shah Kotla,199,198,3.4,1,1
+Rajasthan Royals,Chennai Super Kings,Narendra Modi Stadium,181,168,0.4,8,0
+Sunrisers Hyderabad,Punjab Kings,MA Chidambaram Stadium,154,122,11.9,7,1
+Chennai Super Kings,Rajasthan Royals,Feroz Shah Kotla,217,106,3.8,3,0
+Sunrisers Hyderabad,Delhi Capitals,MA Chidambaram Stadium,169,40,6.8,9,0
+Kolkata Knight Riders,Mumbai Indians,Narendra Modi Stadium,146,74,9.6,3,0
+Chennai Super Kings,Punjab Kings,M. Chinnaswamy Stadium,187,85,9.3,7,0
+Chennai Super Kings,Mumbai Indians,Narendra Modi Stadium,203,169,11.2,10,1
+Delhi Capitals,Sunrisers Hyderabad,Wankhede Stadium,125,83,3.8,4,0
+Delhi Capitals,Chennai Super Kings,Feroz Shah Kotla,214,202,2.1,3,1
+Rajasthan Royals,Royal Challengers Bangalore,Narendra Modi Stadium,199,75,4.9,3,0
+Delhi Capitals,Rajasthan Royals,M. Chinnaswamy Stadium,158,132,18.7,10,1
+Mumbai Indians,Chennai Super Kings,Narendra Modi Stadium,194,3,10.9,10,0
+Punjab Kings,Mumbai Indians,Wankhede Stadium,146,55,14.2,3,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Wankhede Stadium,130,51,13.4,7,1
+Mumbai Indians,Sunrisers Hyderabad,Feroz Shah Kotla,125,108,2.1,4,1
+Royal Challengers Bangalore,Chennai Super Kings,Eden Gardens,178,9,10.8,3,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Wankhede Stadium,134,38,17.9,6,1
+Royal Challengers Bangalore,Rajasthan Royals,Eden Gardens,143,31,6.8,1,0
+Delhi Capitals,Mumbai Indians,Feroz Shah Kotla,142,135,4.7,6,1
+Delhi Capitals,Kolkata Knight Riders,M. Chinnaswamy Stadium,151,26,14.7,6,0
+Chennai Super Kings,Mumbai Indians,Feroz Shah Kotla,163,83,13.6,3,0
+Rajasthan Royals,Royal Challengers Bangalore,MA Chidambaram Stadium,211,32,15.5,4,0
+Rajasthan Royals,Chennai Super Kings,Feroz Shah Kotla,171,77,9.8,4,0
+Rajasthan Royals,Delhi Capitals,M. Chinnaswamy Stadium,123,103,15.2,1,1
+Royal Challengers Bangalore,Chennai Super Kings,Narendra Modi Stadium,149,139,7.3,8,1
+Delhi Capitals,Sunrisers Hyderabad,MA Chidambaram Stadium,215,72,12.4,8,0
+Punjab Kings,Sunrisers Hyderabad,Narendra Modi Stadium,188,68,16.0,5,0
+Rajasthan Royals,Chennai Super Kings,M. Chinnaswamy Stadium,158,25,3.9,2,0
+Delhi Capitals,Mumbai Indians,MA Chidambaram Stadium,218,78,8.2,3,0
+Royal Challengers Bangalore,Kolkata Knight Riders,M. Chinnaswamy Stadium,142,68,15.8,0,0
+Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,155,90,16.5,3,1
+Sunrisers Hyderabad,Mumbai Indians,Narendra Modi Stadium,203,122,7.5,0,0
+Delhi Capitals,Mumbai Indians,MA Chidambaram Stadium,206,32,7.8,2,0
+Delhi Capitals,Mumbai Indians,Wankhede Stadium,189,85,16.9,5,1
+Delhi Capitals,Mumbai Indians,MA Chidambaram Stadium,129,117,9.2,9,1
+Delhi Capitals,Mumbai Indians,Wankhede Stadium,194,177,3.6,7,1
+Chennai Super Kings,Punjab Kings,Feroz Shah Kotla,134,77,8.0,5,1
+Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,213,105,18.5,5,1
+Rajasthan Royals,Sunrisers Hyderabad,Feroz Shah Kotla,177,135,8.5,9,1
+Mumbai Indians,Kolkata Knight Riders,Feroz Shah Kotla,132,25,1.4,6,0
+Punjab Kings,Kolkata Knight Riders,Wankhede Stadium,143,79,14.2,10,1
+Mumbai Indians,Chennai Super Kings,M. Chinnaswamy Stadium,212,205,8.5,1,1
+Kolkata Knight Riders,Sunrisers Hyderabad,M. Chinnaswamy Stadium,144,107,16.6,5,1
+Mumbai Indians,Delhi Capitals,M. Chinnaswamy Stadium,191,2,11.5,4,0
+Delhi Capitals,Sunrisers Hyderabad,MA Chidambaram Stadium,161,32,18.7,7,0
+Kolkata Knight Riders,Mumbai Indians,Narendra Modi Stadium,184,106,11.2,5,1
+Mumbai Indians,Rajasthan Royals,MA Chidambaram Stadium,125,91,5.3,0,0
+Royal Challengers Bangalore,Chennai Super Kings,M. Chinnaswamy Stadium,209,59,5.9,8,0
+Punjab Kings,Chennai Super Kings,MA Chidambaram Stadium,156,50,9.7,1,0
+Rajasthan Royals,Delhi Capitals,Wankhede Stadium,139,53,14.3,6,1
+Punjab Kings,Sunrisers Hyderabad,Wankhede Stadium,211,117,12.1,9,1
+Delhi Capitals,Royal Challengers Bangalore,Narendra Modi Stadium,181,141,1.9,8,0
+Punjab Kings,Sunrisers Hyderabad,MA Chidambaram Stadium,168,60,1.4,0,0
+Rajasthan Royals,Kolkata Knight Riders,Narendra Modi Stadium,219,133,0.9,10,0
+Punjab Kings,Delhi Capitals,M. Chinnaswamy Stadium,206,37,5.2,8,0
+Kolkata Knight Riders,Royal Challengers Bangalore,M. Chinnaswamy Stadium,209,189,1.7,4,1
+Royal Challengers Bangalore,Punjab Kings,M. Chinnaswamy Stadium,209,105,19.8,10,1
+Mumbai Indians,Rajasthan Royals,Narendra Modi Stadium,149,119,14.7,2,1
+Rajasthan Royals,Kolkata Knight Riders,MA Chidambaram Stadium,163,22,19.8,1,0
+Rajasthan Royals,Royal Challengers Bangalore,M. Chinnaswamy Stadium,134,130,12.4,7,1
+Royal Challengers Bangalore,Rajasthan Royals,Eden Gardens,186,49,14.2,3,0
+Royal Challengers Bangalore,Punjab Kings,Narendra Modi Stadium,138,48,19.2,0,0
+Chennai Super Kings,Sunrisers Hyderabad,Feroz Shah Kotla,186,143,11.4,8,1
+Rajasthan Royals,Mumbai Indians,Wankhede Stadium,172,128,3.4,1,0
+Kolkata Knight Riders,Chennai Super Kings,MA Chidambaram Stadium,160,41,3.5,8,0
+Kolkata Knight Riders,Mumbai Indians,Eden Gardens,176,153,7.0,8,1
+Kolkata Knight Riders,Chennai Super Kings,M. Chinnaswamy Stadium,153,123,19.2,6,1
+Rajasthan Royals,Royal Challengers Bangalore,Eden Gardens,161,123,11.7,3,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,M. Chinnaswamy Stadium,123,1,3.0,3,0
+Delhi Capitals,Sunrisers Hyderabad,M. Chinnaswamy Stadium,125,52,14.9,10,1
+Royal Challengers Bangalore,Punjab Kings,Wankhede Stadium,161,27,13.9,6,0
+Kolkata Knight Riders,Delhi Capitals,M. Chinnaswamy Stadium,136,77,8.7,7,1
+Kolkata Knight Riders,Delhi Capitals,MA Chidambaram Stadium,196,39,16.0,1,0
+Chennai Super Kings,Rajasthan Royals,Feroz Shah Kotla,170,34,8.6,8,0
+Chennai Super Kings,Kolkata Knight Riders,Eden Gardens,159,77,13.2,9,1
+Punjab Kings,Delhi Capitals,M. Chinnaswamy Stadium,161,101,9.0,4,1
+Sunrisers Hyderabad,Kolkata Knight Riders,Wankhede Stadium,142,106,1.9,2,0
+Kolkata Knight Riders,Punjab Kings,Eden Gardens,219,179,4.7,3,1
+Kolkata Knight Riders,Chennai Super Kings,MA Chidambaram Stadium,147,74,13.7,4,1
+Punjab Kings,Royal Challengers Bangalore,Narendra Modi Stadium,200,24,4.0,5,0
+Delhi Capitals,Chennai Super Kings,Narendra Modi Stadium,129,73,11.0,5,1
+Chennai Super Kings,Mumbai Indians,MA Chidambaram Stadium,146,30,19.3,6,0
+Rajasthan Royals,Royal Challengers Bangalore,MA Chidambaram Stadium,152,27,2.4,6,0
+Royal Challengers Bangalore,Chennai Super Kings,M. Chinnaswamy Stadium,130,56,5.2,8,0
+Punjab Kings,Chennai Super Kings,M. Chinnaswamy Stadium,163,116,6.5,9,1
+Mumbai Indians,Rajasthan Royals,MA Chidambaram Stadium,177,164,9.3,8,1
+Royal Challengers Bangalore,Rajasthan Royals,MA Chidambaram Stadium,124,122,10.4,0,1
+Sunrisers Hyderabad,Punjab Kings,Narendra Modi Stadium,131,75,6.1,6,1
+Delhi Capitals,Rajasthan Royals,Narendra Modi Stadium,198,14,13.8,8,0
+Royal Challengers Bangalore,Rajasthan Royals,Narendra Modi Stadium,144,140,0.8,10,1
+Mumbai Indians,Chennai Super Kings,M. Chinnaswamy Stadium,215,131,17.0,10,1
+Punjab Kings,Chennai Super Kings,Wankhede Stadium,131,125,5.0,5,1
+Royal Challengers Bangalore,Rajasthan Royals,MA Chidambaram Stadium,189,85,12.8,2,0
+Royal Challengers Bangalore,Mumbai Indians,M. Chinnaswamy Stadium,217,209,15.0,5,1
+Mumbai Indians,Kolkata Knight Riders,Narendra Modi Stadium,198,90,4.7,0,0
+Kolkata Knight Riders,Delhi Capitals,Eden Gardens,120,29,15.3,3,0
+Rajasthan Royals,Sunrisers Hyderabad,Feroz Shah Kotla,143,38,13.0,1,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Wankhede Stadium,182,129,7.5,10,1
+Delhi Capitals,Punjab Kings,Narendra Modi Stadium,220,77,2.7,6,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Wankhede Stadium,149,125,2.4,9,1
+Punjab Kings,Chennai Super Kings,Narendra Modi Stadium,183,61,19.5,2,0
+Delhi Capitals,Mumbai Indians,MA Chidambaram Stadium,163,140,13.5,5,1
+Rajasthan Royals,Punjab Kings,Eden Gardens,186,18,3.5,8,0
+Rajasthan Royals,Sunrisers Hyderabad,Narendra Modi Stadium,219,11,16.5,5,0
+Sunrisers Hyderabad,Chennai Super Kings,M. Chinnaswamy Stadium,208,95,1.7,0,0
+Chennai Super Kings,Punjab Kings,MA Chidambaram Stadium,174,10,9.2,8,0
+Punjab Kings,Delhi Capitals,Wankhede Stadium,157,124,15.9,9,1
+Mumbai Indians,Royal Challengers Bangalore,Narendra Modi Stadium,147,11,3.1,10,0
+Rajasthan Royals,Delhi Capitals,M. Chinnaswamy Stadium,141,113,15.0,3,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Feroz Shah Kotla,136,107,8.4,2,1
+Mumbai Indians,Royal Challengers Bangalore,Feroz Shah Kotla,151,5,4.2,4,0
+Mumbai Indians,Punjab Kings,Eden Gardens,170,81,4.9,3,0
+Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,167,105,15.5,6,1
+Chennai Super Kings,Punjab Kings,Feroz Shah Kotla,124,124,12.0,6,1
+Royal Challengers Bangalore,Chennai Super Kings,Feroz Shah Kotla,158,26,15.1,1,0
+Punjab Kings,Chennai Super Kings,M. Chinnaswamy Stadium,186,9,13.3,7,0
+Royal Challengers Bangalore,Chennai Super Kings,Wankhede Stadium,192,77,1.0,5,0
+Mumbai Indians,Punjab Kings,M. Chinnaswamy Stadium,185,62,11.7,0,0
+Punjab Kings,Mumbai Indians,M. Chinnaswamy Stadium,215,167,13.0,3,1
+Delhi Capitals,Sunrisers Hyderabad,M. Chinnaswamy Stadium,121,56,9.9,5,1
+Mumbai Indians,Royal Challengers Bangalore,Narendra Modi Stadium,166,41,0.6,5,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,Feroz Shah Kotla,185,134,2.0,6,0
+Chennai Super Kings,Delhi Capitals,M. Chinnaswamy Stadium,126,22,19.4,1,0
+Rajasthan Royals,Punjab Kings,Feroz Shah Kotla,130,93,15.0,0,1
+Punjab Kings,Sunrisers Hyderabad,Feroz Shah Kotla,211,96,2.7,4,0
+Delhi Capitals,Kolkata Knight Riders,Narendra Modi Stadium,131,35,3.5,1,0
+Sunrisers Hyderabad,Delhi Capitals,Wankhede Stadium,143,123,3.9,7,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Narendra Modi Stadium,155,106,2.8,5,0
+Sunrisers Hyderabad,Rajasthan Royals,MA Chidambaram Stadium,154,98,1.7,5,0
+Chennai Super Kings,Mumbai Indians,Wankhede Stadium,189,181,10.9,8,1
+Royal Challengers Bangalore,Punjab Kings,Feroz Shah Kotla,202,54,18.9,3,0
+Kolkata Knight Riders,Delhi Capitals,Narendra Modi Stadium,203,115,18.3,6,1
+Delhi Capitals,Kolkata Knight Riders,M. Chinnaswamy Stadium,209,51,8.7,7,0
+Mumbai Indians,Royal Challengers Bangalore,Feroz Shah Kotla,124,114,11.7,5,1
+Delhi Capitals,Sunrisers Hyderabad,M. Chinnaswamy Stadium,162,144,2.2,1,0
+Chennai Super Kings,Delhi Capitals,Narendra Modi Stadium,166,136,13.0,4,1
+Rajasthan Royals,Sunrisers Hyderabad,MA Chidambaram Stadium,136,110,11.2,10,1
+Sunrisers Hyderabad,Chennai Super Kings,MA Chidambaram Stadium,194,163,6.9,4,1
+Royal Challengers Bangalore,Rajasthan Royals,Wankhede Stadium,212,61,16.9,7,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Narendra Modi Stadium,208,104,18.4,0,0
+Delhi Capitals,Sunrisers Hyderabad,Eden Gardens,171,170,4.0,3,1
+Punjab Kings,Mumbai Indians,MA Chidambaram Stadium,219,208,13.5,8,1
+Punjab Kings,Chennai Super Kings,Wankhede Stadium,164,63,2.3,3,0
+Rajasthan Royals,Kolkata Knight Riders,Narendra Modi Stadium,154,3,6.3,10,0
+Delhi Capitals,Chennai Super Kings,Eden Gardens,154,112,2.5,9,1
+Delhi Capitals,Chennai Super Kings,Narendra Modi Stadium,166,66,1.1,0,0
+Mumbai Indians,Delhi Capitals,M. Chinnaswamy Stadium,176,136,4.0,5,1
+Royal Challengers Bangalore,Kolkata Knight Riders,MA Chidambaram Stadium,128,53,10.5,2,0
+Delhi Capitals,Royal Challengers Bangalore,Eden Gardens,134,113,5.5,2,1
+Delhi Capitals,Sunrisers Hyderabad,MA Chidambaram Stadium,179,151,0.8,7,0
+Punjab Kings,Chennai Super Kings,Feroz Shah Kotla,132,103,6.7,9,1
+Mumbai Indians,Kolkata Knight Riders,MA Chidambaram Stadium,164,156,5.6,2,1
+Delhi Capitals,Kolkata Knight Riders,Narendra Modi Stadium,161,41,0.2,10,0
+Royal Challengers Bangalore,Chennai Super Kings,Eden Gardens,211,195,16.0,4,1
+Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,160,116,5.5,4,1
+Sunrisers Hyderabad,Rajasthan Royals,MA Chidambaram Stadium,144,33,12.6,9,1
+Royal Challengers Bangalore,Kolkata Knight Riders,Eden Gardens,170,106,18.5,4,1
+Rajasthan Royals,Royal Challengers Bangalore,Eden Gardens,153,40,2.5,10,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,Wankhede Stadium,124,33,19.4,8,1
+Mumbai Indians,Royal Challengers Bangalore,M. Chinnaswamy Stadium,170,6,13.6,8,0
+Royal Challengers Bangalore,Mumbai Indians,Narendra Modi Stadium,156,46,7.3,2,0
+Rajasthan Royals,Punjab Kings,Wankhede Stadium,127,47,4.2,6,0
+Punjab Kings,Royal Challengers Bangalore,Narendra Modi Stadium,218,145,17.2,5,1
+Delhi Capitals,Punjab Kings,Eden Gardens,139,49,18.3,8,1
+Rajasthan Royals,Mumbai Indians,Narendra Modi Stadium,165,99,17.3,1,0
+Kolkata Knight Riders,Delhi Capitals,Narendra Modi Stadium,178,113,2.3,4,0
+Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,174,86,7.1,4,0
+Delhi Capitals,Mumbai Indians,Feroz Shah Kotla,152,15,17.0,0,0
+Rajasthan Royals,Sunrisers Hyderabad,M. Chinnaswamy Stadium,150,51,14.8,7,1
+Kolkata Knight Riders,Rajasthan Royals,Wankhede Stadium,122,77,15.8,10,1
+Chennai Super Kings,Delhi Capitals,Narendra Modi Stadium,200,12,12.5,2,0
+Royal Challengers Bangalore,Punjab Kings,Feroz Shah Kotla,154,9,16.7,8,0
+Chennai Super Kings,Royal Challengers Bangalore,Wankhede Stadium,148,31,4.0,7,0
+Chennai Super Kings,Delhi Capitals,M. Chinnaswamy Stadium,167,67,9.2,10,1
+Chennai Super Kings,Kolkata Knight Riders,Eden Gardens,177,89,11.4,0,0
+Kolkata Knight Riders,Royal Challengers Bangalore,M. Chinnaswamy Stadium,168,70,16.3,7,1
+Chennai Super Kings,Sunrisers Hyderabad,Narendra Modi Stadium,161,105,10.7,3,1
+Kolkata Knight Riders,Punjab Kings,MA Chidambaram Stadium,143,39,1.6,1,0
+Delhi Capitals,Punjab Kings,Feroz Shah Kotla,128,110,13.3,9,1
+Kolkata Knight Riders,Royal Challengers Bangalore,Narendra Modi Stadium,212,38,14.3,2,0
+Delhi Capitals,Chennai Super Kings,M. Chinnaswamy Stadium,215,173,18.0,1,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Eden Gardens,156,9,3.9,3,0
+Kolkata Knight Riders,Mumbai Indians,Wankhede Stadium,126,28,18.5,9,1
+Rajasthan Royals,Mumbai Indians,M. Chinnaswamy Stadium,151,11,5.4,2,0
+Chennai Super Kings,Punjab Kings,Narendra Modi Stadium,197,59,8.6,9,0
+Rajasthan Royals,Chennai Super Kings,Wankhede Stadium,154,34,10.5,8,0
+Royal Challengers Bangalore,Punjab Kings,M. Chinnaswamy Stadium,163,158,11.9,0,1
+Chennai Super Kings,Kolkata Knight Riders,Eden Gardens,175,174,16.4,0,1
+Mumbai Indians,Kolkata Knight Riders,Eden Gardens,158,67,13.6,10,1
+Delhi Capitals,Punjab Kings,M. Chinnaswamy Stadium,174,109,16.4,2,1
+Kolkata Knight Riders,Punjab Kings,Narendra Modi Stadium,160,90,16.3,4,1
+Punjab Kings,Rajasthan Royals,Wankhede Stadium,151,130,4.8,10,1
+Sunrisers Hyderabad,Punjab Kings,Narendra Modi Stadium,139,110,6.4,4,1
+Kolkata Knight Riders,Royal Challengers Bangalore,M. Chinnaswamy Stadium,153,68,14.2,0,0
+Sunrisers Hyderabad,Punjab Kings,Wankhede Stadium,134,2,16.5,2,0
+Mumbai Indians,Rajasthan Royals,MA Chidambaram Stadium,124,34,17.5,10,1
+Mumbai Indians,Sunrisers Hyderabad,M. Chinnaswamy Stadium,206,151,18.4,6,1
+Rajasthan Royals,Chennai Super Kings,Eden Gardens,173,144,6.0,5,1
+Chennai Super Kings,Delhi Capitals,Narendra Modi Stadium,163,20,11.0,8,0
+Chennai Super Kings,Kolkata Knight Riders,Feroz Shah Kotla,132,40,10.4,0,0
+Kolkata Knight Riders,Punjab Kings,M. Chinnaswamy Stadium,125,13,2.8,1,0
+Royal Challengers Bangalore,Mumbai Indians,Feroz Shah Kotla,199,82,19.6,7,1
+Sunrisers Hyderabad,Punjab Kings,Eden Gardens,198,194,12.7,1,1
+Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,121,4,1.7,5,0
+Rajasthan Royals,Punjab Kings,Feroz Shah Kotla,212,149,6.4,6,1
+Royal Challengers Bangalore,Rajasthan Royals,Narendra Modi Stadium,168,72,0.3,8,0
+Chennai Super Kings,Rajasthan Royals,Eden Gardens,195,69,18.4,8,1
+Royal Challengers Bangalore,Mumbai Indians,MA Chidambaram Stadium,197,146,14.3,5,1
+Rajasthan Royals,Chennai Super Kings,M. Chinnaswamy Stadium,161,147,12.8,6,1
+Mumbai Indians,Royal Challengers Bangalore,Narendra Modi Stadium,198,86,14.9,8,1
+Delhi Capitals,Sunrisers Hyderabad,Feroz Shah Kotla,185,110,9.7,9,1
+Delhi Capitals,Kolkata Knight Riders,Wankhede Stadium,134,62,4.2,6,0
+Chennai Super Kings,Punjab Kings,Feroz Shah Kotla,196,75,1.6,1,0
+Rajasthan Royals,Sunrisers Hyderabad,Feroz Shah Kotla,208,183,16.5,2,1
+Mumbai Indians,Chennai Super Kings,Eden Gardens,212,126,18.1,5,1
+Royal Challengers Bangalore,Mumbai Indians,Feroz Shah Kotla,125,28,6.3,3,0
+Sunrisers Hyderabad,Punjab Kings,Wankhede Stadium,197,38,17.9,4,0
+Rajasthan Royals,Delhi Capitals,Wankhede Stadium,141,49,14.2,4,0
+Chennai Super Kings,Delhi Capitals,Feroz Shah Kotla,140,133,18.0,0,1
+Mumbai Indians,Sunrisers Hyderabad,Eden Gardens,130,37,4.2,10,0
+Chennai Super Kings,Sunrisers Hyderabad,M. Chinnaswamy Stadium,215,44,15.5,1,0
+Mumbai Indians,Chennai Super Kings,Feroz Shah Kotla,217,161,2.1,2,0
+Mumbai Indians,Rajasthan Royals,Narendra Modi Stadium,182,70,5.8,7,0
+Kolkata Knight Riders,Chennai Super Kings,MA Chidambaram Stadium,175,60,6.6,0,0
+Mumbai Indians,Rajasthan Royals,M. Chinnaswamy Stadium,195,61,3.8,7,0
+Punjab Kings,Chennai Super Kings,M. Chinnaswamy Stadium,171,26,11.7,10,0
+Kolkata Knight Riders,Mumbai Indians,Narendra Modi Stadium,165,149,9.4,9,1
+Rajasthan Royals,Sunrisers Hyderabad,Narendra Modi Stadium,163,157,0.4,2,0
+Rajasthan Royals,Sunrisers Hyderabad,Wankhede Stadium,129,82,10.1,8,1
+Punjab Kings,Mumbai Indians,MA Chidambaram Stadium,167,125,18.9,5,1
+Sunrisers Hyderabad,Rajasthan Royals,Narendra Modi Stadium,209,154,18.3,0,1
+Sunrisers Hyderabad,Delhi Capitals,Wankhede Stadium,182,117,15.1,4,1
+Chennai Super Kings,Sunrisers Hyderabad,MA Chidambaram Stadium,165,104,10.0,10,1
+Chennai Super Kings,Kolkata Knight Riders,Narendra Modi Stadium,121,1,0.2,8,0
+Sunrisers Hyderabad,Chennai Super Kings,Narendra Modi Stadium,170,111,8.0,7,1
+Royal Challengers Bangalore,Punjab Kings,M. Chinnaswamy Stadium,173,116,6.2,0,0
+Sunrisers Hyderabad,Mumbai Indians,M. Chinnaswamy Stadium,161,140,10.7,10,1
+Delhi Capitals,Mumbai Indians,MA Chidambaram Stadium,121,106,17.3,5,1
+Delhi Capitals,Chennai Super Kings,Feroz Shah Kotla,127,11,10.7,3,0
+Royal Challengers Bangalore,Delhi Capitals,Wankhede Stadium,210,86,3.2,9,0
+Chennai Super Kings,Royal Challengers Bangalore,Narendra Modi Stadium,162,134,12.0,8,1
+Mumbai Indians,Chennai Super Kings,Feroz Shah Kotla,153,89,5.7,2,0
+Rajasthan Royals,Royal Challengers Bangalore,Narendra Modi Stadium,170,64,16.5,6,1
+Chennai Super Kings,Delhi Capitals,Feroz Shah Kotla,162,140,17.3,4,1
+Royal Challengers Bangalore,Punjab Kings,Narendra Modi Stadium,160,31,4.1,2,0
+Kolkata Knight Riders,Chennai Super Kings,Narendra Modi Stadium,178,99,19.4,6,1
+Kolkata Knight Riders,Mumbai Indians,MA Chidambaram Stadium,134,41,2.3,0,0
+Punjab Kings,Delhi Capitals,Wankhede Stadium,139,2,12.4,4,0
+Sunrisers Hyderabad,Mumbai Indians,Eden Gardens,126,12,19.0,2,0
+Rajasthan Royals,Royal Challengers Bangalore,MA Chidambaram Stadium,149,12,17.3,8,0
+Royal Challengers Bangalore,Rajasthan Royals,Narendra Modi Stadium,140,47,11.0,10,1
+Delhi Capitals,Royal Challengers Bangalore,MA Chidambaram Stadium,157,53,9.6,2,0
+Delhi Capitals,Rajasthan Royals,Narendra Modi Stadium,152,119,11.0,0,1
+Chennai Super Kings,Mumbai Indians,Wankhede Stadium,125,68,2.3,10,0
+Rajasthan Royals,Chennai Super Kings,Feroz Shah Kotla,178,5,7.7,3,0
+Kolkata Knight Riders,Royal Challengers Bangalore,MA Chidambaram Stadium,129,4,15.4,0,0
+Sunrisers Hyderabad,Mumbai Indians,Eden Gardens,190,71,6.2,2,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,140,62,14.6,3,0
+Delhi Capitals,Chennai Super Kings,Narendra Modi Stadium,207,15,15.0,8,0
+Mumbai Indians,Sunrisers Hyderabad,MA Chidambaram Stadium,188,42,2.1,1,0
+Mumbai Indians,Rajasthan Royals,Eden Gardens,144,87,2.1,10,0
+Rajasthan Royals,Mumbai Indians,MA Chidambaram Stadium,195,172,18.5,4,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Wankhede Stadium,179,68,13.0,8,1
+Mumbai Indians,Royal Challengers Bangalore,Narendra Modi Stadium,173,33,10.7,4,0
+Delhi Capitals,Rajasthan Royals,M. Chinnaswamy Stadium,157,134,18.0,0,1
+Royal Challengers Bangalore,Mumbai Indians,Narendra Modi Stadium,180,168,7.5,3,1
+Royal Challengers Bangalore,Delhi Capitals,MA Chidambaram Stadium,204,180,12.9,10,1
+Royal Challengers Bangalore,Delhi Capitals,M. Chinnaswamy Stadium,137,67,0.4,10,0
+Rajasthan Royals,Chennai Super Kings,Wankhede Stadium,207,78,19.5,2,0
+Mumbai Indians,Rajasthan Royals,MA Chidambaram Stadium,121,66,0.3,1,0
+Punjab Kings,Sunrisers Hyderabad,MA Chidambaram Stadium,171,4,16.7,1,0
+Delhi Capitals,Rajasthan Royals,MA Chidambaram Stadium,205,200,10.3,6,1
+Mumbai Indians,Sunrisers Hyderabad,MA Chidambaram Stadium,197,21,18.6,5,0
+Mumbai Indians,Rajasthan Royals,Wankhede Stadium,205,49,13.0,9,0
+Mumbai Indians,Rajasthan Royals,Narendra Modi Stadium,139,125,17.1,10,1
+Kolkata Knight Riders,Delhi Capitals,Wankhede Stadium,133,25,1.7,6,0
+Chennai Super Kings,Delhi Capitals,Eden Gardens,155,121,11.4,4,1
+Mumbai Indians,Delhi Capitals,Feroz Shah Kotla,191,100,3.5,4,0
+Delhi Capitals,Rajasthan Royals,Narendra Modi Stadium,175,24,11.7,2,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Narendra Modi Stadium,170,42,3.1,10,0
+Chennai Super Kings,Royal Challengers Bangalore,M. Chinnaswamy Stadium,125,88,12.5,4,1
+Sunrisers Hyderabad,Mumbai Indians,M. Chinnaswamy Stadium,148,3,16.6,6,0
+Mumbai Indians,Rajasthan Royals,M. Chinnaswamy Stadium,126,111,7.2,7,1
+Rajasthan Royals,Punjab Kings,MA Chidambaram Stadium,136,68,1.9,0,0
+Kolkata Knight Riders,Delhi Capitals,Eden Gardens,193,178,16.7,8,1
+Kolkata Knight Riders,Mumbai Indians,Eden Gardens,198,134,11.1,10,1
+Punjab Kings,Sunrisers Hyderabad,M. Chinnaswamy Stadium,206,186,15.3,1,1
+Chennai Super Kings,Punjab Kings,M. Chinnaswamy Stadium,218,168,11.7,0,0
+Mumbai Indians,Kolkata Knight Riders,Narendra Modi Stadium,134,109,6.5,1,1
+Rajasthan Royals,Punjab Kings,Wankhede Stadium,195,104,2.4,4,0
+Sunrisers Hyderabad,Chennai Super Kings,MA Chidambaram Stadium,136,61,8.6,4,0
+Sunrisers Hyderabad,Kolkata Knight Riders,MA Chidambaram Stadium,188,7,12.4,10,0
+Punjab Kings,Royal Challengers Bangalore,Wankhede Stadium,135,60,4.8,3,0
+Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,205,23,2.6,3,0
+Rajasthan Royals,Delhi Capitals,Feroz Shah Kotla,196,124,10.3,5,1
+Delhi Capitals,Chennai Super Kings,MA Chidambaram Stadium,202,189,5.6,3,1
+Mumbai Indians,Delhi Capitals,M. Chinnaswamy Stadium,130,98,17.9,7,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Wankhede Stadium,120,119,13.4,6,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,M. Chinnaswamy Stadium,138,87,17.5,7,1
+Rajasthan Royals,Chennai Super Kings,MA Chidambaram Stadium,146,58,17.0,4,0
+Kolkata Knight Riders,Royal Challengers Bangalore,M. Chinnaswamy Stadium,123,25,6.8,1,0
+Punjab Kings,Kolkata Knight Riders,M. Chinnaswamy Stadium,140,28,16.4,6,0
+Kolkata Knight Riders,Rajasthan Royals,Narendra Modi Stadium,134,95,18.3,6,1
+Rajasthan Royals,Sunrisers Hyderabad,Eden Gardens,137,83,9.8,3,1
+Rajasthan Royals,Kolkata Knight Riders,Eden Gardens,137,99,12.0,8,1
+Punjab Kings,Royal Challengers Bangalore,MA Chidambaram Stadium,169,167,9.9,3,1
+Mumbai Indians,Rajasthan Royals,Wankhede Stadium,139,69,6.8,6,0
+Delhi Capitals,Sunrisers Hyderabad,MA Chidambaram Stadium,151,8,10.6,0,0
+Sunrisers Hyderabad,Punjab Kings,M. Chinnaswamy Stadium,194,163,1.2,8,0
+Punjab Kings,Sunrisers Hyderabad,Eden Gardens,142,34,13.3,8,0
+Sunrisers Hyderabad,Mumbai Indians,Wankhede Stadium,184,94,7.8,8,1
+Mumbai Indians,Kolkata Knight Riders,M. Chinnaswamy Stadium,198,41,15.2,2,0
+Royal Challengers Bangalore,Chennai Super Kings,Eden Gardens,162,14,5.3,4,0
+Sunrisers Hyderabad,Mumbai Indians,Eden Gardens,156,87,12.9,3,1
+Delhi Capitals,Mumbai Indians,Narendra Modi Stadium,144,49,10.9,9,1
+Kolkata Knight Riders,Delhi Capitals,Eden Gardens,212,144,18.6,6,1
+Sunrisers Hyderabad,Punjab Kings,M. Chinnaswamy Stadium,125,49,5.1,5,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Wankhede Stadium,134,34,2.4,10,0
+Rajasthan Royals,Mumbai Indians,Eden Gardens,146,98,16.7,5,1
+Mumbai Indians,Punjab Kings,Eden Gardens,196,33,18.2,5,0
+Chennai Super Kings,Mumbai Indians,MA Chidambaram Stadium,156,45,18.6,6,0
+Delhi Capitals,Sunrisers Hyderabad,Wankhede Stadium,199,133,10.9,5,1
+Royal Challengers Bangalore,Delhi Capitals,MA Chidambaram Stadium,121,56,18.4,0,0
+Delhi Capitals,Chennai Super Kings,Eden Gardens,190,5,19.5,10,0
+Mumbai Indians,Punjab Kings,M. Chinnaswamy Stadium,122,100,17.4,4,1
+Royal Challengers Bangalore,Delhi Capitals,Narendra Modi Stadium,164,116,4.9,1,0
+Chennai Super Kings,Delhi Capitals,MA Chidambaram Stadium,153,130,1.6,2,0
+Kolkata Knight Riders,Chennai Super Kings,MA Chidambaram Stadium,144,127,7.1,2,1
+Royal Challengers Bangalore,Punjab Kings,Wankhede Stadium,160,92,9.0,5,1
+Mumbai Indians,Rajasthan Royals,M. Chinnaswamy Stadium,126,43,12.9,0,0
+Royal Challengers Bangalore,Delhi Capitals,Narendra Modi Stadium,169,51,19.6,4,0
+Punjab Kings,Mumbai Indians,Feroz Shah Kotla,220,84,17.8,2,0
+Delhi Capitals,Royal Challengers Bangalore,Narendra Modi Stadium,197,168,12.2,10,1
+Rajasthan Royals,Chennai Super Kings,M. Chinnaswamy Stadium,152,142,19.7,8,1
+Chennai Super Kings,Delhi Capitals,Narendra Modi Stadium,197,105,14.9,6,1
+Delhi Capitals,Rajasthan Royals,M. Chinnaswamy Stadium,142,101,1.9,8,0
+Mumbai Indians,Punjab Kings,M. Chinnaswamy Stadium,132,110,18.8,10,1
+Punjab Kings,Kolkata Knight Riders,Narendra Modi Stadium,183,161,4.2,5,1
+Mumbai Indians,Punjab Kings,Eden Gardens,155,57,14.7,6,1
+Punjab Kings,Mumbai Indians,Wankhede Stadium,183,76,11.8,5,0
+Royal Challengers Bangalore,Chennai Super Kings,Eden Gardens,128,84,10.8,6,1
+Royal Challengers Bangalore,Mumbai Indians,Wankhede Stadium,144,78,18.2,6,1
+Mumbai Indians,Rajasthan Royals,Eden Gardens,213,141,15.2,10,1
+Kolkata Knight Riders,Chennai Super Kings,M. Chinnaswamy Stadium,157,140,13.0,3,1
+Delhi Capitals,Royal Challengers Bangalore,M. Chinnaswamy Stadium,158,12,14.2,6,0
+Punjab Kings,Delhi Capitals,Eden Gardens,141,130,8.4,4,1
+Rajasthan Royals,Royal Challengers Bangalore,M. Chinnaswamy Stadium,122,68,0.8,8,0
+Delhi Capitals,Rajasthan Royals,Wankhede Stadium,184,83,14.7,3,0
+Rajasthan Royals,Sunrisers Hyderabad,Feroz Shah Kotla,188,102,8.5,6,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,M. Chinnaswamy Stadium,147,122,1.3,3,0
+Chennai Super Kings,Rajasthan Royals,Eden Gardens,181,155,9.1,7,1
+Punjab Kings,Royal Challengers Bangalore,Narendra Modi Stadium,203,155,12.6,5,1
+Rajasthan Royals,Punjab Kings,Wankhede Stadium,124,3,0.6,4,0
+Chennai Super Kings,Punjab Kings,MA Chidambaram Stadium,136,5,15.4,7,0
+Delhi Capitals,Punjab Kings,MA Chidambaram Stadium,168,44,5.0,3,0
+Mumbai Indians,Delhi Capitals,Eden Gardens,189,79,17.5,3,0
+Sunrisers Hyderabad,Punjab Kings,Eden Gardens,121,12,3.8,9,0
+Chennai Super Kings,Mumbai Indians,Eden Gardens,216,9,6.7,6,0
+Chennai Super Kings,Delhi Capitals,Narendra Modi Stadium,128,86,0.6,3,0
+Mumbai Indians,Rajasthan Royals,Feroz Shah Kotla,140,64,4.6,4,0
+Chennai Super Kings,Royal Challengers Bangalore,MA Chidambaram Stadium,140,109,1.5,2,0
+Delhi Capitals,Royal Challengers Bangalore,Wankhede Stadium,129,27,12.0,6,0
+Sunrisers Hyderabad,Delhi Capitals,MA Chidambaram Stadium,150,123,1.3,1,0
+Rajasthan Royals,Delhi Capitals,Eden Gardens,149,29,14.2,7,0
+Delhi Capitals,Royal Challengers Bangalore,Feroz Shah Kotla,209,20,9.3,7,0
+Chennai Super Kings,Kolkata Knight Riders,Wankhede Stadium,201,22,11.1,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Narendra Modi Stadium,206,138,7.2,4,0
+Mumbai Indians,Kolkata Knight Riders,Eden Gardens,218,155,14.9,6,1
+Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,140,84,7.3,4,0
+Rajasthan Royals,Chennai Super Kings,M. Chinnaswamy Stadium,125,35,4.8,3,0
+Sunrisers Hyderabad,Punjab Kings,Eden Gardens,203,125,12.2,4,1
+Punjab Kings,Sunrisers Hyderabad,Feroz Shah Kotla,212,159,9.5,3,1
+Mumbai Indians,Delhi Capitals,Wankhede Stadium,147,45,15.7,4,0
+Sunrisers Hyderabad,Kolkata Knight Riders,Wankhede Stadium,164,13,2.4,1,0
+Rajasthan Royals,Chennai Super Kings,Feroz Shah Kotla,164,113,9.7,3,1
+Chennai Super Kings,Kolkata Knight Riders,Narendra Modi Stadium,125,123,10.0,1,1
+Delhi Capitals,Rajasthan Royals,Feroz Shah Kotla,140,97,17.9,3,1
+Kolkata Knight Riders,Mumbai Indians,Feroz Shah Kotla,208,8,8.8,9,0
+Chennai Super Kings,Mumbai Indians,Feroz Shah Kotla,133,13,12.7,8,0
+Kolkata Knight Riders,Delhi Capitals,Wankhede Stadium,130,78,17.7,3,1
+Sunrisers Hyderabad,Royal Challengers Bangalore,Narendra Modi Stadium,205,8,17.6,6,0
+Rajasthan Royals,Mumbai Indians,M. Chinnaswamy Stadium,157,97,11.8,8,1
+Chennai Super Kings,Mumbai Indians,MA Chidambaram Stadium,129,120,6.3,2,1
+Punjab Kings,Delhi Capitals,Eden Gardens,167,14,14.7,6,0
+Chennai Super Kings,Rajasthan Royals,Wankhede Stadium,177,39,18.3,10,1
+Chennai Super Kings,Mumbai Indians,Wankhede Stadium,162,108,9.6,7,1
+Royal Challengers Bangalore,Kolkata Knight Riders,Narendra Modi Stadium,163,154,7.1,7,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Wankhede Stadium,161,91,12.7,0,0
+Mumbai Indians,Royal Challengers Bangalore,Narendra Modi Stadium,194,105,11.6,6,1
+Royal Challengers Bangalore,Delhi Capitals,Wankhede Stadium,212,74,2.8,3,0
+Sunrisers Hyderabad,Mumbai Indians,MA Chidambaram Stadium,147,145,7.6,9,1
+Rajasthan Royals,Delhi Capitals,Eden Gardens,192,191,15.2,4,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Eden Gardens,136,50,13.3,4,0
+Chennai Super Kings,Kolkata Knight Riders,Feroz Shah Kotla,180,32,11.0,1,0
+Royal Challengers Bangalore,Chennai Super Kings,Feroz Shah Kotla,213,78,12.9,5,0
+Chennai Super Kings,Rajasthan Royals,Narendra Modi Stadium,122,95,5.4,10,1
+Rajasthan Royals,Royal Challengers Bangalore,MA Chidambaram Stadium,132,77,10.6,9,1
+Chennai Super Kings,Kolkata Knight Riders,MA Chidambaram Stadium,206,64,18.8,5,0
+Rajasthan Royals,Delhi Capitals,Wankhede Stadium,168,82,9.0,0,0
+Mumbai Indians,Rajasthan Royals,MA Chidambaram Stadium,154,83,16.0,4,1
+Sunrisers Hyderabad,Kolkata Knight Riders,Feroz Shah Kotla,195,20,5.2,5,0
+Sunrisers Hyderabad,Mumbai Indians,MA Chidambaram Stadium,172,53,13.9,9,1
+Mumbai Indians,Punjab Kings,Wankhede Stadium,183,174,17.8,3,1
+Kolkata Knight Riders,Mumbai Indians,Narendra Modi Stadium,153,22,5.0,4,0
+Royal Challengers Bangalore,Delhi Capitals,Eden Gardens,158,19,14.5,5,0
+Chennai Super Kings,Kolkata Knight Riders,Feroz Shah Kotla,188,104,8.1,6,0
+Rajasthan Royals,Delhi Capitals,Eden Gardens,175,175,4.1,0,1
+Rajasthan Royals,Punjab Kings,M. Chinnaswamy Stadium,212,107,10.3,9,1
+Royal Challengers Bangalore,Mumbai Indians,MA Chidambaram Stadium,130,0,4.7,4,0
+Chennai Super Kings,Punjab Kings,MA Chidambaram Stadium,131,13,19.4,5,0
+Mumbai Indians,Royal Challengers Bangalore,Feroz Shah Kotla,172,120,2.0,2,0
+Royal Challengers Bangalore,Kolkata Knight Riders,Wankhede Stadium,186,168,7.7,6,1
+Chennai Super Kings,Punjab Kings,Eden Gardens,125,32,8.5,8,0
+Mumbai Indians,Sunrisers Hyderabad,Feroz Shah Kotla,128,57,2.0,6,0
+Royal Challengers Bangalore,Rajasthan Royals,MA Chidambaram Stadium,194,182,5.6,8,1
+Royal Challengers Bangalore,Delhi Capitals,Feroz Shah Kotla,207,181,4.7,10,1
+Delhi Capitals,Sunrisers Hyderabad,MA Chidambaram Stadium,150,121,15.7,4,1
+Punjab Kings,Rajasthan Royals,Eden Gardens,204,54,5.9,5,0
+Delhi Capitals,Punjab Kings,MA Chidambaram Stadium,149,47,18.9,8,1
+Chennai Super Kings,Rajasthan Royals,Narendra Modi Stadium,133,20,16.9,1,0
+Kolkata Knight Riders,Royal Challengers Bangalore,M. Chinnaswamy Stadium,168,86,3.0,8,0
+Kolkata Knight Riders,Royal Challengers Bangalore,M. Chinnaswamy Stadium,197,62,9.9,0,0
+Rajasthan Royals,Chennai Super Kings,Eden Gardens,146,75,8.4,10,1
+Rajasthan Royals,Sunrisers Hyderabad,MA Chidambaram Stadium,163,23,3.7,2,0
+Delhi Capitals,Punjab Kings,Narendra Modi Stadium,120,107,3.7,3,1
+Royal Challengers Bangalore,Mumbai Indians,M. Chinnaswamy Stadium,156,81,12.0,9,1
+Mumbai Indians,Chennai Super Kings,Narendra Modi Stadium,142,83,8.9,4,1
+Delhi Capitals,Mumbai Indians,Narendra Modi Stadium,219,51,10.2,10,0
+Rajasthan Royals,Sunrisers Hyderabad,MA Chidambaram Stadium,156,65,5.9,2,0
+Mumbai Indians,Chennai Super Kings,Feroz Shah Kotla,174,131,11.9,3,1
+Delhi Capitals,Mumbai Indians,Eden Gardens,158,4,5.5,2,0
+Punjab Kings,Sunrisers Hyderabad,Wankhede Stadium,188,144,5.5,5,1
+Chennai Super Kings,Sunrisers Hyderabad,MA Chidambaram Stadium,213,106,10.9,3,0
+Punjab Kings,Royal Challengers Bangalore,Eden Gardens,180,48,4.1,8,0
+Royal Challengers Bangalore,Delhi Capitals,Feroz Shah Kotla,214,177,17.7,1,1
+Punjab Kings,Sunrisers Hyderabad,Narendra Modi Stadium,150,108,15.4,7,1
+Rajasthan Royals,Punjab Kings,M. Chinnaswamy Stadium,147,57,20.0,0,0
+Rajasthan Royals,Royal Challengers Bangalore,Narendra Modi Stadium,178,131,10.7,7,1
+Rajasthan Royals,Royal Challengers Bangalore,Narendra Modi Stadium,192,106,10.7,6,1
+Punjab Kings,Delhi Capitals,Wankhede Stadium,171,135,15.4,6,1
+Mumbai Indians,Chennai Super Kings,M. Chinnaswamy Stadium,207,201,0.4,0,0
+Punjab Kings,Mumbai Indians,MA Chidambaram Stadium,161,42,15.8,7,0
+Punjab Kings,Royal Challengers Bangalore,Feroz Shah Kotla,152,3,1.3,8,0
+Kolkata Knight Riders,Sunrisers Hyderabad,MA Chidambaram Stadium,202,91,16.8,9,1
+Kolkata Knight Riders,Chennai Super Kings,Wankhede Stadium,147,8,3.2,4,0
+Rajasthan Royals,Chennai Super Kings,Wankhede Stadium,181,21,2.5,4,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Narendra Modi Stadium,189,150,18.1,8,1
+Punjab Kings,Royal Challengers Bangalore,Feroz Shah Kotla,180,34,17.6,6,0
+Delhi Capitals,Mumbai Indians,Narendra Modi Stadium,191,18,4.9,1,0
+Mumbai Indians,Rajasthan Royals,Feroz Shah Kotla,211,123,11.0,8,1
+Royal Challengers Bangalore,Delhi Capitals,Eden Gardens,147,65,19.3,4,1
+Sunrisers Hyderabad,Kolkata Knight Riders,Narendra Modi Stadium,165,46,8.7,3,0
+Sunrisers Hyderabad,Punjab Kings,MA Chidambaram Stadium,220,30,17.0,9,0
+Kolkata Knight Riders,Chennai Super Kings,Wankhede Stadium,124,112,6.1,2,1
+Chennai Super Kings,Delhi Capitals,Narendra Modi Stadium,202,127,8.7,8,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Narendra Modi Stadium,154,38,4.8,9,0
+Delhi Capitals,Sunrisers Hyderabad,MA Chidambaram Stadium,209,37,13.8,3,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Narendra Modi Stadium,204,110,14.3,5,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,MA Chidambaram Stadium,194,91,12.2,5,0
+Rajasthan Royals,Sunrisers Hyderabad,Wankhede Stadium,150,38,7.4,8,0
+Mumbai Indians,Royal Challengers Bangalore,MA Chidambaram Stadium,172,150,17.1,5,1
+Rajasthan Royals,Chennai Super Kings,MA Chidambaram Stadium,173,11,9.2,9,0
+Rajasthan Royals,Chennai Super Kings,Feroz Shah Kotla,200,38,15.1,9,0
+Mumbai Indians,Punjab Kings,Narendra Modi Stadium,137,52,1.6,3,0
+Delhi Capitals,Punjab Kings,Narendra Modi Stadium,157,84,4.4,10,0
+Kolkata Knight Riders,Rajasthan Royals,Feroz Shah Kotla,151,109,14.3,0,1
+Delhi Capitals,Chennai Super Kings,M. Chinnaswamy Stadium,214,47,4.1,7,0
+Punjab Kings,Delhi Capitals,Wankhede Stadium,195,77,4.8,6,0
+Sunrisers Hyderabad,Delhi Capitals,M. Chinnaswamy Stadium,198,193,9.8,3,1
+Punjab Kings,Kolkata Knight Riders,Wankhede Stadium,199,191,3.8,4,1
+Punjab Kings,Mumbai Indians,Narendra Modi Stadium,147,120,2.4,2,0
+Sunrisers Hyderabad,Chennai Super Kings,MA Chidambaram Stadium,200,143,3.5,6,0
+Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,151,131,15.5,4,1
+Chennai Super Kings,Punjab Kings,MA Chidambaram Stadium,195,109,10.9,3,0
+Mumbai Indians,Rajasthan Royals,Narendra Modi Stadium,185,117,4.2,0,0
+Mumbai Indians,Delhi Capitals,M. Chinnaswamy Stadium,142,116,16.9,0,1
+Kolkata Knight Riders,Rajasthan Royals,MA Chidambaram Stadium,131,33,13.1,5,0
+Mumbai Indians,Sunrisers Hyderabad,Narendra Modi Stadium,145,51,10.2,1,0
+Mumbai Indians,Sunrisers Hyderabad,Narendra Modi Stadium,153,72,5.4,2,0
+Chennai Super Kings,Delhi Capitals,M. Chinnaswamy Stadium,213,12,17.0,0,0
+Kolkata Knight Riders,Mumbai Indians,M. Chinnaswamy Stadium,159,86,12.9,3,0
+Punjab Kings,Mumbai Indians,M. Chinnaswamy Stadium,185,62,17.0,2,0
+Chennai Super Kings,Delhi Capitals,Narendra Modi Stadium,123,122,11.6,5,1
+Punjab Kings,Chennai Super Kings,Narendra Modi Stadium,200,186,8.9,2,1
+Delhi Capitals,Punjab Kings,Narendra Modi Stadium,195,131,6.0,2,0
+Mumbai Indians,Sunrisers Hyderabad,Narendra Modi Stadium,145,23,17.1,3,0
+Punjab Kings,Rajasthan Royals,Wankhede Stadium,145,80,12.3,4,1
+Rajasthan Royals,Sunrisers Hyderabad,Narendra Modi Stadium,200,87,0.6,2,0
+Chennai Super Kings,Mumbai Indians,Eden Gardens,204,49,5.2,1,0
+Delhi Capitals,Punjab Kings,M. Chinnaswamy Stadium,121,76,15.0,9,1
+Royal Challengers Bangalore,Rajasthan Royals,MA Chidambaram Stadium,163,159,7.7,3,1
+Delhi Capitals,Kolkata Knight Riders,Eden Gardens,187,85,15.7,5,1
+Mumbai Indians,Rajasthan Royals,Wankhede Stadium,162,4,3.9,10,0
+Chennai Super Kings,Punjab Kings,Narendra Modi Stadium,197,13,9.5,5,0
+Mumbai Indians,Kolkata Knight Riders,Wankhede Stadium,171,30,19.1,2,0
+Kolkata Knight Riders,Mumbai Indians,Feroz Shah Kotla,173,24,17.6,8,0
+Delhi Capitals,Rajasthan Royals,M. Chinnaswamy Stadium,147,143,18.5,5,1
+Chennai Super Kings,Sunrisers Hyderabad,Wankhede Stadium,220,3,8.9,5,0
+Rajasthan Royals,Royal Challengers Bangalore,M. Chinnaswamy Stadium,158,83,2.1,3,0
+Rajasthan Royals,Kolkata Knight Riders,MA Chidambaram Stadium,149,63,10.8,3,0
+Punjab Kings,Rajasthan Royals,Eden Gardens,216,214,1.1,7,1
+Chennai Super Kings,Mumbai Indians,Eden Gardens,187,17,17.8,3,0
+Mumbai Indians,Royal Challengers Bangalore,MA Chidambaram Stadium,209,36,3.1,9,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Eden Gardens,189,154,4.4,8,1
+Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,219,182,4.5,9,1
+Sunrisers Hyderabad,Mumbai Indians,M. Chinnaswamy Stadium,204,114,1.7,7,0
+Punjab Kings,Chennai Super Kings,M. Chinnaswamy Stadium,164,36,4.5,5,0
+Delhi Capitals,Royal Challengers Bangalore,Wankhede Stadium,203,94,11.0,8,1
+Chennai Super Kings,Mumbai Indians,Narendra Modi Stadium,140,83,14.2,8,1
+Royal Challengers Bangalore,Chennai Super Kings,Eden Gardens,144,63,10.0,8,1
+Rajasthan Royals,Chennai Super Kings,MA Chidambaram Stadium,130,113,0.5,9,0
+Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,214,151,4.8,3,0
+Delhi Capitals,Sunrisers Hyderabad,Feroz Shah Kotla,211,193,12.5,0,1
+Kolkata Knight Riders,Mumbai Indians,Eden Gardens,128,55,10.9,2,0
+Sunrisers Hyderabad,Delhi Capitals,Feroz Shah Kotla,193,26,11.9,9,0
+Punjab Kings,Rajasthan Royals,Narendra Modi Stadium,168,161,12.6,7,1
+Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,193,162,15.7,7,1
+Rajasthan Royals,Chennai Super Kings,Feroz Shah Kotla,140,114,8.2,4,1
+Punjab Kings,Kolkata Knight Riders,Wankhede Stadium,129,110,18.8,6,1
+Chennai Super Kings,Rajasthan Royals,M. Chinnaswamy Stadium,167,113,16.9,1,1
+Rajasthan Royals,Punjab Kings,Narendra Modi Stadium,125,100,14.4,3,1
+Kolkata Knight Riders,Delhi Capitals,Eden Gardens,158,10,5.1,3,0
+Mumbai Indians,Punjab Kings,Narendra Modi Stadium,192,174,10.1,8,1
+Kolkata Knight Riders,Sunrisers Hyderabad,M. Chinnaswamy Stadium,158,23,11.7,7,0
+Punjab Kings,Royal Challengers Bangalore,Narendra Modi Stadium,197,126,15.2,10,1
+Kolkata Knight Riders,Delhi Capitals,MA Chidambaram Stadium,120,16,6.4,4,0
+Mumbai Indians,Chennai Super Kings,Eden Gardens,122,45,9.2,5,0
+Sunrisers Hyderabad,Delhi Capitals,Eden Gardens,177,147,18.6,3,1
+Delhi Capitals,Rajasthan Royals,M. Chinnaswamy Stadium,217,124,8.0,1,0
+Kolkata Knight Riders,Mumbai Indians,MA Chidambaram Stadium,124,37,16.5,6,1
+Kolkata Knight Riders,Royal Challengers Bangalore,M. Chinnaswamy Stadium,196,12,1.5,7,0
+Sunrisers Hyderabad,Mumbai Indians,Eden Gardens,176,11,4.1,9,0
+Mumbai Indians,Royal Challengers Bangalore,Eden Gardens,202,184,19.1,10,1
+Sunrisers Hyderabad,Chennai Super Kings,Narendra Modi Stadium,149,0,19.8,5,0
+Punjab Kings,Royal Challengers Bangalore,MA Chidambaram Stadium,146,4,6.3,4,0
+Rajasthan Royals,Sunrisers Hyderabad,M. Chinnaswamy Stadium,196,183,4.7,10,1
+Punjab Kings,Sunrisers Hyderabad,MA Chidambaram Stadium,195,3,15.3,9,0
+Rajasthan Royals,Mumbai Indians,MA Chidambaram Stadium,198,176,18.8,3,1
+Punjab Kings,Rajasthan Royals,Narendra Modi Stadium,151,116,9.5,6,1
+Punjab Kings,Chennai Super Kings,MA Chidambaram Stadium,144,75,17.2,1,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,149,42,9.6,9,0
+Rajasthan Royals,Delhi Capitals,Wankhede Stadium,186,173,13.9,0,1
+Sunrisers Hyderabad,Delhi Capitals,Narendra Modi Stadium,199,162,17.8,0,1
+Mumbai Indians,Rajasthan Royals,Wankhede Stadium,184,22,16.5,5,0
+Delhi Capitals,Punjab Kings,MA Chidambaram Stadium,208,197,11.7,5,1
+Punjab Kings,Chennai Super Kings,Wankhede Stadium,195,88,6.1,2,0
+Mumbai Indians,Rajasthan Royals,M. Chinnaswamy Stadium,164,140,12.4,6,1
+Delhi Capitals,Punjab Kings,Feroz Shah Kotla,156,69,8.6,1,0
+Kolkata Knight Riders,Rajasthan Royals,M. Chinnaswamy Stadium,209,29,1.7,10,0
+Royal Challengers Bangalore,Kolkata Knight Riders,Wankhede Stadium,159,124,5.5,7,1
+Rajasthan Royals,Kolkata Knight Riders,Wankhede Stadium,165,0,19.1,8,0
+Punjab Kings,Delhi Capitals,MA Chidambaram Stadium,217,10,11.8,6,0
+Rajasthan Royals,Kolkata Knight Riders,Wankhede Stadium,198,195,15.5,7,1
+Mumbai Indians,Royal Challengers Bangalore,MA Chidambaram Stadium,199,193,15.1,10,1
+Mumbai Indians,Rajasthan Royals,Feroz Shah Kotla,218,93,7.5,3,0
+Chennai Super Kings,Rajasthan Royals,M. Chinnaswamy Stadium,193,157,8.3,1,1
+Delhi Capitals,Sunrisers Hyderabad,Eden Gardens,131,23,8.2,10,0
+Kolkata Knight Riders,Punjab Kings,MA Chidambaram Stadium,150,117,3.8,5,1
+Mumbai Indians,Delhi Capitals,Narendra Modi Stadium,141,51,15.7,10,1
+Delhi Capitals,Chennai Super Kings,Feroz Shah Kotla,201,116,13.5,4,1
+Royal Challengers Bangalore,Delhi Capitals,Wankhede Stadium,167,119,13.1,4,1
+Chennai Super Kings,Kolkata Knight Riders,Feroz Shah Kotla,164,8,1.6,2,0
+Punjab Kings,Rajasthan Royals,Wankhede Stadium,211,147,19.1,10,1
+Chennai Super Kings,Punjab Kings,MA Chidambaram Stadium,181,27,1.6,1,0
+Kolkata Knight Riders,Royal Challengers Bangalore,M. Chinnaswamy Stadium,137,19,8.3,8,0
+Sunrisers Hyderabad,Kolkata Knight Riders,MA Chidambaram Stadium,131,30,12.3,2,0
+Rajasthan Royals,Delhi Capitals,MA Chidambaram Stadium,161,85,15.5,7,1
+Rajasthan Royals,Chennai Super Kings,Eden Gardens,168,132,3.6,5,1
+Delhi Capitals,Chennai Super Kings,Feroz Shah Kotla,162,80,6.2,10,1
+Punjab Kings,Kolkata Knight Riders,Eden Gardens,170,48,0.7,8,0
+Rajasthan Royals,Delhi Capitals,MA Chidambaram Stadium,184,104,0.5,7,0
+Punjab Kings,Kolkata Knight Riders,MA Chidambaram Stadium,201,98,6.3,7,0
+Punjab Kings,Sunrisers Hyderabad,Feroz Shah Kotla,129,116,7.5,10,1
+Delhi Capitals,Rajasthan Royals,Wankhede Stadium,128,3,2.2,1,0
+Sunrisers Hyderabad,Rajasthan Royals,Narendra Modi Stadium,143,49,15.9,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,M. Chinnaswamy Stadium,138,75,2.7,2,0
+Rajasthan Royals,Kolkata Knight Riders,Eden Gardens,122,97,8.8,0,1
+Mumbai Indians,Kolkata Knight Riders,Feroz Shah Kotla,205,26,9.7,3,0
+Mumbai Indians,Delhi Capitals,Eden Gardens,205,121,4.0,4,0
+Sunrisers Hyderabad,Rajasthan Royals,Feroz Shah Kotla,148,26,18.6,8,1
+Punjab Kings,Chennai Super Kings,Feroz Shah Kotla,213,95,9.3,4,0
+Kolkata Knight Riders,Delhi Capitals,Narendra Modi Stadium,133,44,16.4,5,0
+Rajasthan Royals,Chennai Super Kings,Narendra Modi Stadium,162,57,0.3,0,0
+Chennai Super Kings,Sunrisers Hyderabad,Wankhede Stadium,160,6,17.7,8,0
+Delhi Capitals,Kolkata Knight Riders,Narendra Modi Stadium,129,4,14.5,10,0
+Chennai Super Kings,Mumbai Indians,Wankhede Stadium,157,7,2.6,2,0
+Delhi Capitals,Rajasthan Royals,Feroz Shah Kotla,177,75,18.6,4,0
+Kolkata Knight Riders,Rajasthan Royals,MA Chidambaram Stadium,219,154,1.3,4,0
+Sunrisers Hyderabad,Mumbai Indians,Wankhede Stadium,178,51,10.0,7,0
+Kolkata Knight Riders,Punjab Kings,Narendra Modi Stadium,177,17,14.7,10,0
+Kolkata Knight Riders,Delhi Capitals,MA Chidambaram Stadium,212,167,2.1,2,0
+Chennai Super Kings,Mumbai Indians,Feroz Shah Kotla,135,42,2.5,1,0
+Delhi Capitals,Mumbai Indians,Eden Gardens,168,84,0.2,1,0
+Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,177,58,4.8,2,0
+Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,194,144,15.3,3,1
+Delhi Capitals,Sunrisers Hyderabad,M. Chinnaswamy Stadium,166,7,14.2,1,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,165,137,2.2,5,0
+Chennai Super Kings,Punjab Kings,Feroz Shah Kotla,172,133,2.0,7,0
+Kolkata Knight Riders,Sunrisers Hyderabad,MA Chidambaram Stadium,124,7,4.9,10,0
+Chennai Super Kings,Kolkata Knight Riders,M. Chinnaswamy Stadium,153,17,14.9,9,0
+Rajasthan Royals,Kolkata Knight Riders,Wankhede Stadium,145,0,3.9,0,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,MA Chidambaram Stadium,215,108,8.7,0,0
+Punjab Kings,Royal Challengers Bangalore,Eden Gardens,131,118,6.8,10,1
+Delhi Capitals,Kolkata Knight Riders,M. Chinnaswamy Stadium,198,156,16.1,2,1
+Delhi Capitals,Punjab Kings,M. Chinnaswamy Stadium,182,161,6.1,6,1
+Punjab Kings,Royal Challengers Bangalore,Eden Gardens,184,0,5.9,10,0
+Chennai Super Kings,Punjab Kings,Eden Gardens,178,108,19.2,5,1
+Delhi Capitals,Rajasthan Royals,M. Chinnaswamy Stadium,148,122,18.9,1,1
+Delhi Capitals,Punjab Kings,Feroz Shah Kotla,139,30,7.3,6,0
+Rajasthan Royals,Chennai Super Kings,MA Chidambaram Stadium,204,50,17.8,4,0
+Punjab Kings,Royal Challengers Bangalore,Feroz Shah Kotla,146,4,13.5,6,0
+Mumbai Indians,Sunrisers Hyderabad,Eden Gardens,205,87,9.2,10,1
+Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,179,145,18.4,5,1
+Delhi Capitals,Mumbai Indians,Wankhede Stadium,120,54,4.4,8,0
+Royal Challengers Bangalore,Chennai Super Kings,Wankhede Stadium,208,141,15.3,3,1
+Punjab Kings,Sunrisers Hyderabad,Feroz Shah Kotla,179,47,6.6,0,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Feroz Shah Kotla,136,104,14.9,1,1
+Kolkata Knight Riders,Royal Challengers Bangalore,Narendra Modi Stadium,195,30,0.4,10,0
+Delhi Capitals,Mumbai Indians,MA Chidambaram Stadium,127,39,13.9,5,0
+Royal Challengers Bangalore,Delhi Capitals,Narendra Modi Stadium,154,66,4.2,9,0
+Mumbai Indians,Sunrisers Hyderabad,M. Chinnaswamy Stadium,143,101,10.2,10,1
+Punjab Kings,Chennai Super Kings,M. Chinnaswamy Stadium,141,85,9.7,7,1
+Sunrisers Hyderabad,Mumbai Indians,MA Chidambaram Stadium,205,30,18.4,4,0
+Chennai Super Kings,Mumbai Indians,M. Chinnaswamy Stadium,139,131,18.3,3,1
+Sunrisers Hyderabad,Punjab Kings,Feroz Shah Kotla,190,18,11.9,6,0
+Rajasthan Royals,Delhi Capitals,Eden Gardens,131,50,11.6,4,0
+Royal Challengers Bangalore,Delhi Capitals,MA Chidambaram Stadium,161,103,5.5,5,0
+Royal Challengers Bangalore,Delhi Capitals,Narendra Modi Stadium,155,99,16.7,8,1
+Rajasthan Royals,Delhi Capitals,MA Chidambaram Stadium,205,38,16.8,10,1
+Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,170,114,4.2,7,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Feroz Shah Kotla,206,137,17.8,10,1
+Rajasthan Royals,Delhi Capitals,M. Chinnaswamy Stadium,163,61,6.1,6,0
+Mumbai Indians,Kolkata Knight Riders,Narendra Modi Stadium,140,86,2.8,6,0
+Chennai Super Kings,Mumbai Indians,Eden Gardens,150,141,13.8,9,1
+Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,215,116,13.5,2,0
+Chennai Super Kings,Kolkata Knight Riders,MA Chidambaram Stadium,190,45,6.1,8,0
+Chennai Super Kings,Delhi Capitals,Eden Gardens,168,6,0.9,5,0
+Kolkata Knight Riders,Chennai Super Kings,M. Chinnaswamy Stadium,171,141,6.5,7,1
+Mumbai Indians,Rajasthan Royals,Wankhede Stadium,167,67,17.3,3,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Narendra Modi Stadium,194,7,3.2,2,0
+Delhi Capitals,Punjab Kings,Wankhede Stadium,145,31,2.6,6,0
+Royal Challengers Bangalore,Delhi Capitals,Feroz Shah Kotla,157,149,15.8,2,1
+Kolkata Knight Riders,Punjab Kings,Eden Gardens,171,102,4.7,4,0
+Delhi Capitals,Punjab Kings,Eden Gardens,158,110,19.1,9,1
+Rajasthan Royals,Delhi Capitals,M. Chinnaswamy Stadium,131,8,8.1,10,0
+Kolkata Knight Riders,Rajasthan Royals,Feroz Shah Kotla,127,98,1.6,5,0
+Punjab Kings,Mumbai Indians,Wankhede Stadium,214,7,19.6,10,0
+Punjab Kings,Royal Challengers Bangalore,Narendra Modi Stadium,134,81,11.4,4,1
+Chennai Super Kings,Royal Challengers Bangalore,Narendra Modi Stadium,206,142,14.1,9,1
+Chennai Super Kings,Royal Challengers Bangalore,Feroz Shah Kotla,152,66,11.6,10,1
+Mumbai Indians,Rajasthan Royals,Narendra Modi Stadium,154,60,12.8,3,0
+Sunrisers Hyderabad,Chennai Super Kings,Wankhede Stadium,208,173,5.1,4,1
+Royal Challengers Bangalore,Mumbai Indians,M. Chinnaswamy Stadium,190,102,3.3,7,0
+Mumbai Indians,Rajasthan Royals,Narendra Modi Stadium,180,124,1.1,7,0
+Punjab Kings,Sunrisers Hyderabad,Eden Gardens,195,40,15.5,2,0
+Chennai Super Kings,Kolkata Knight Riders,MA Chidambaram Stadium,188,40,16.6,4,0
+Punjab Kings,Sunrisers Hyderabad,MA Chidambaram Stadium,208,52,2.6,3,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Eden Gardens,174,174,11.2,2,1
+Delhi Capitals,Kolkata Knight Riders,Wankhede Stadium,187,57,19.7,8,1
+Rajasthan Royals,Mumbai Indians,Eden Gardens,188,28,17.4,10,1
+Royal Challengers Bangalore,Sunrisers Hyderabad,Narendra Modi Stadium,165,52,8.0,3,0
+Mumbai Indians,Sunrisers Hyderabad,MA Chidambaram Stadium,180,84,6.0,8,0
+Mumbai Indians,Rajasthan Royals,M. Chinnaswamy Stadium,148,107,19.8,7,1
+Chennai Super Kings,Kolkata Knight Riders,Eden Gardens,169,66,17.2,8,1
+Royal Challengers Bangalore,Punjab Kings,MA Chidambaram Stadium,139,11,9.9,1,0
+Delhi Capitals,Kolkata Knight Riders,MA Chidambaram Stadium,214,155,14.7,3,1
+Punjab Kings,Chennai Super Kings,MA Chidambaram Stadium,154,40,17.7,9,1
+Kolkata Knight Riders,Chennai Super Kings,Feroz Shah Kotla,203,119,4.7,7,0
+Kolkata Knight Riders,Chennai Super Kings,Feroz Shah Kotla,210,92,4.5,3,0
+Delhi Capitals,Sunrisers Hyderabad,Feroz Shah Kotla,206,196,19.2,6,1
+Delhi Capitals,Chennai Super Kings,MA Chidambaram Stadium,164,116,18.6,7,1
+Delhi Capitals,Rajasthan Royals,M. Chinnaswamy Stadium,135,76,17.4,5,1
+Sunrisers Hyderabad,Kolkata Knight Riders,M. Chinnaswamy Stadium,135,43,15.6,0,0
+Chennai Super Kings,Rajasthan Royals,Narendra Modi Stadium,164,115,2.7,9,0
+Kolkata Knight Riders,Sunrisers Hyderabad,M. Chinnaswamy Stadium,204,104,13.3,10,1
+Chennai Super Kings,Sunrisers Hyderabad,M. Chinnaswamy Stadium,141,136,7.4,6,1
+Punjab Kings,Delhi Capitals,Wankhede Stadium,191,61,8.6,7,0
+Mumbai Indians,Delhi Capitals,Eden Gardens,183,69,2.2,9,0
+Punjab Kings,Mumbai Indians,Narendra Modi Stadium,187,148,7.7,2,1
+Mumbai Indians,Sunrisers Hyderabad,Wankhede Stadium,133,43,13.1,6,0
+Mumbai Indians,Sunrisers Hyderabad,MA Chidambaram Stadium,171,13,17.4,6,0
+Sunrisers Hyderabad,Chennai Super Kings,MA Chidambaram Stadium,199,30,10.9,7,0
+Mumbai Indians,Chennai Super Kings,M. Chinnaswamy Stadium,141,65,15.5,8,1
+Royal Challengers Bangalore,Rajasthan Royals,MA Chidambaram Stadium,121,8,10.6,1,0
+Kolkata Knight Riders,Chennai Super Kings,Wankhede Stadium,186,13,5.7,2,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,M. Chinnaswamy Stadium,165,113,19.0,10,1
+Chennai Super Kings,Royal Challengers Bangalore,Wankhede Stadium,151,85,11.0,1,0
+Punjab Kings,Sunrisers Hyderabad,MA Chidambaram Stadium,129,8,14.4,4,0
+Rajasthan Royals,Kolkata Knight Riders,MA Chidambaram Stadium,147,39,7.1,4,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Eden Gardens,196,81,4.0,4,0
+Royal Challengers Bangalore,Delhi Capitals,Feroz Shah Kotla,219,160,11.2,9,1
+Punjab Kings,Mumbai Indians,Narendra Modi Stadium,123,92,3.2,9,1
+Chennai Super Kings,Royal Challengers Bangalore,M. Chinnaswamy Stadium,169,139,8.3,9,1
+Sunrisers Hyderabad,Mumbai Indians,M. Chinnaswamy Stadium,171,103,4.6,6,0
+Rajasthan Royals,Royal Challengers Bangalore,Narendra Modi Stadium,139,74,15.1,8,1
+Sunrisers Hyderabad,Chennai Super Kings,Narendra Modi Stadium,205,196,14.7,2,1
+Punjab Kings,Rajasthan Royals,MA Chidambaram Stadium,149,118,9.0,3,1
+Chennai Super Kings,Kolkata Knight Riders,MA Chidambaram Stadium,156,48,17.2,3,0
+Punjab Kings,Sunrisers Hyderabad,Wankhede Stadium,127,93,16.5,5,1
+Royal Challengers Bangalore,Punjab Kings,Wankhede Stadium,165,55,3.3,3,0
+Mumbai Indians,Rajasthan Royals,Eden Gardens,125,117,15.8,10,1
+Rajasthan Royals,Royal Challengers Bangalore,MA Chidambaram Stadium,162,109,19.2,4,1
+Punjab Kings,Rajasthan Royals,Eden Gardens,144,45,1.9,1,0
+Rajasthan Royals,Royal Challengers Bangalore,MA Chidambaram Stadium,193,1,17.1,1,0
+Punjab Kings,Chennai Super Kings,M. Chinnaswamy Stadium,209,32,19.3,6,0
+Kolkata Knight Riders,Rajasthan Royals,Eden Gardens,218,76,15.3,3,0
+Mumbai Indians,Sunrisers Hyderabad,M. Chinnaswamy Stadium,220,203,1.2,6,1
+Punjab Kings,Mumbai Indians,Wankhede Stadium,148,61,10.0,5,0
+Kolkata Knight Riders,Royal Challengers Bangalore,Wankhede Stadium,169,52,9.9,3,0
+Royal Challengers Bangalore,Kolkata Knight Riders,Feroz Shah Kotla,191,11,18.0,10,0
+Punjab Kings,Royal Challengers Bangalore,Narendra Modi Stadium,211,87,12.3,9,1
+Kolkata Knight Riders,Punjab Kings,Narendra Modi Stadium,136,96,7.1,10,1
+Punjab Kings,Delhi Capitals,Eden Gardens,128,59,4.7,9,0
+Rajasthan Royals,Royal Challengers Bangalore,MA Chidambaram Stadium,130,100,5.9,6,1
+Rajasthan Royals,Royal Challengers Bangalore,Eden Gardens,197,6,6.3,8,0
+Sunrisers Hyderabad,Chennai Super Kings,MA Chidambaram Stadium,195,29,19.5,5,0
+Chennai Super Kings,Delhi Capitals,Wankhede Stadium,163,26,17.1,9,1
+Kolkata Knight Riders,Punjab Kings,MA Chidambaram Stadium,191,128,0.3,5,0
+Royal Challengers Bangalore,Chennai Super Kings,Wankhede Stadium,147,135,19.0,10,1
+Kolkata Knight Riders,Punjab Kings,Wankhede Stadium,219,178,1.3,9,0
+Kolkata Knight Riders,Mumbai Indians,Narendra Modi Stadium,162,16,10.8,4,0
+Delhi Capitals,Punjab Kings,Feroz Shah Kotla,124,58,4.5,0,0
+Kolkata Knight Riders,Delhi Capitals,M. Chinnaswamy Stadium,217,149,7.1,7,1
+Punjab Kings,Sunrisers Hyderabad,Eden Gardens,120,0,13.9,4,0
+Sunrisers Hyderabad,Rajasthan Royals,Wankhede Stadium,133,27,4.7,10,0
+Punjab Kings,Sunrisers Hyderabad,M. Chinnaswamy Stadium,168,92,16.8,1,0
+Mumbai Indians,Kolkata Knight Riders,MA Chidambaram Stadium,176,25,16.1,8,0
+Punjab Kings,Delhi Capitals,Wankhede Stadium,134,44,1.7,6,0
+Royal Challengers Bangalore,Punjab Kings,Eden Gardens,141,87,17.4,6,1
+Kolkata Knight Riders,Punjab Kings,M. Chinnaswamy Stadium,175,137,1.8,2,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,Wankhede Stadium,141,18,5.9,9,0
+Kolkata Knight Riders,Chennai Super Kings,Feroz Shah Kotla,173,107,6.1,6,0
+Royal Challengers Bangalore,Mumbai Indians,MA Chidambaram Stadium,185,38,15.6,5,0
+Sunrisers Hyderabad,Delhi Capitals,Eden Gardens,219,12,4.0,3,0
+Sunrisers Hyderabad,Chennai Super Kings,Feroz Shah Kotla,218,66,13.8,3,0
+Kolkata Knight Riders,Chennai Super Kings,Narendra Modi Stadium,122,114,16.0,10,1
+Chennai Super Kings,Rajasthan Royals,Narendra Modi Stadium,175,51,3.3,3,0
+Mumbai Indians,Delhi Capitals,Narendra Modi Stadium,206,182,12.9,2,1
+Mumbai Indians,Chennai Super Kings,M. Chinnaswamy Stadium,217,46,11.0,9,0
+Kolkata Knight Riders,Delhi Capitals,Wankhede Stadium,184,165,13.8,7,1
+Kolkata Knight Riders,Chennai Super Kings,Wankhede Stadium,155,155,3.1,1,1
+Sunrisers Hyderabad,Rajasthan Royals,Feroz Shah Kotla,129,105,13.1,10,1
+Rajasthan Royals,Royal Challengers Bangalore,Narendra Modi Stadium,175,1,13.1,4,0
+Sunrisers Hyderabad,Chennai Super Kings,Wankhede Stadium,145,78,14.2,8,1
+Delhi Capitals,Punjab Kings,Eden Gardens,132,1,16.7,6,0
+Rajasthan Royals,Chennai Super Kings,Feroz Shah Kotla,135,135,15.1,9,1
+Mumbai Indians,Delhi Capitals,Eden Gardens,213,139,15.5,6,1
+Chennai Super Kings,Delhi Capitals,M. Chinnaswamy Stadium,165,119,9.5,8,1
+Delhi Capitals,Chennai Super Kings,M. Chinnaswamy Stadium,132,74,12.8,0,0
+Rajasthan Royals,Delhi Capitals,Feroz Shah Kotla,202,110,1.5,9,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,Eden Gardens,211,87,15.1,3,0
+Mumbai Indians,Chennai Super Kings,M. Chinnaswamy Stadium,137,17,0.6,0,0
+Delhi Capitals,Punjab Kings,Feroz Shah Kotla,173,49,1.3,0,0
+Rajasthan Royals,Delhi Capitals,Eden Gardens,139,10,1.2,2,0
+Rajasthan Royals,Mumbai Indians,Narendra Modi Stadium,219,167,3.8,0,0
+Punjab Kings,Sunrisers Hyderabad,Eden Gardens,125,21,13.0,2,0
+Rajasthan Royals,Punjab Kings,Narendra Modi Stadium,195,195,4.9,4,1
+Punjab Kings,Rajasthan Royals,Feroz Shah Kotla,168,147,19.8,2,1
+Kolkata Knight Riders,Sunrisers Hyderabad,Feroz Shah Kotla,120,35,7.1,0,0
+Delhi Capitals,Rajasthan Royals,MA Chidambaram Stadium,125,83,9.7,4,1
+Kolkata Knight Riders,Mumbai Indians,Feroz Shah Kotla,164,159,1.4,10,1
+Rajasthan Royals,Kolkata Knight Riders,MA Chidambaram Stadium,185,180,14.8,0,1
+Chennai Super Kings,Mumbai Indians,Narendra Modi Stadium,162,86,18.6,5,1
+Royal Challengers Bangalore,Delhi Capitals,Wankhede Stadium,178,90,5.4,9,0
+Punjab Kings,Chennai Super Kings,Feroz Shah Kotla,165,30,15.9,2,0
+Punjab Kings,Sunrisers Hyderabad,M. Chinnaswamy Stadium,157,13,16.2,9,0
+Royal Challengers Bangalore,Delhi Capitals,Eden Gardens,202,44,6.5,4,0
+Mumbai Indians,Kolkata Knight Riders,Narendra Modi Stadium,144,2,13.0,3,0
+Delhi Capitals,Rajasthan Royals,MA Chidambaram Stadium,187,47,8.1,4,0
+Chennai Super Kings,Rajasthan Royals,Eden Gardens,200,169,16.2,6,1
+Chennai Super Kings,Kolkata Knight Riders,Eden Gardens,147,23,19.1,7,0
+Royal Challengers Bangalore,Punjab Kings,Wankhede Stadium,179,97,12.0,4,0
+Chennai Super Kings,Rajasthan Royals,M. Chinnaswamy Stadium,179,63,13.5,2,0
+Mumbai Indians,Delhi Capitals,Eden Gardens,184,66,0.6,4,0
+Kolkata Knight Riders,Sunrisers Hyderabad,Narendra Modi Stadium,219,0,10.0,3,0
+Royal Challengers Bangalore,Chennai Super Kings,Eden Gardens,197,4,3.7,4,0
+Punjab Kings,Chennai Super Kings,Eden Gardens,137,53,12.1,2,0
+Chennai Super Kings,Sunrisers Hyderabad,Feroz Shah Kotla,208,20,5.1,8,0
+Delhi Capitals,Sunrisers Hyderabad,M. Chinnaswamy Stadium,171,149,8.2,10,1
+Delhi Capitals,Chennai Super Kings,M. Chinnaswamy Stadium,132,78,0.2,5,0
+Rajasthan Royals,Punjab Kings,Narendra Modi Stadium,209,129,12.4,3,0
+Mumbai Indians,Kolkata Knight Riders,M. Chinnaswamy Stadium,217,126,12.3,5,1
+Chennai Super Kings,Royal Challengers Bangalore,Wankhede Stadium,125,1,4.9,8,0
+Royal Challengers Bangalore,Sunrisers Hyderabad,Eden Gardens,207,66,18.9,8,1
+Mumbai Indians,Rajasthan Royals,MA Chidambaram Stadium,207,134,4.5,9,0
+Rajasthan Royals,Delhi Capitals,Feroz Shah Kotla,185,104,5.8,8,0
+Kolkata Knight Riders,Punjab Kings,M. Chinnaswamy Stadium,180,12,19.3,7,0
+Delhi Capitals,Chennai Super Kings,M. Chinnaswamy Stadium,135,0,9.5,5,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,MA Chidambaram Stadium,196,49,14.5,4,0
+Royal Challengers Bangalore,Mumbai Indians,Narendra Modi Stadium,128,99,0.9,5,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,Narendra Modi Stadium,191,46,5.2,8,0
+Delhi Capitals,Sunrisers Hyderabad,M. Chinnaswamy Stadium,158,26,1.6,7,0
+Rajasthan Royals,Mumbai Indians,Eden Gardens,149,66,15.1,6,1
+Delhi Capitals,Royal Challengers Bangalore,Eden Gardens,141,13,13.4,4,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,MA Chidambaram Stadium,159,1,8.3,9,0
+Punjab Kings,Mumbai Indians,Wankhede Stadium,132,94,19.5,3,1
+Chennai Super Kings,Delhi Capitals,M. Chinnaswamy Stadium,126,97,18.0,5,1
+Punjab Kings,Chennai Super Kings,MA Chidambaram Stadium,183,133,0.8,3,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,Eden Gardens,220,29,18.0,7,0
+Chennai Super Kings,Royal Challengers Bangalore,Narendra Modi Stadium,182,101,19.2,1,0
+Delhi Capitals,Rajasthan Royals,Feroz Shah Kotla,200,27,0.5,0,0
+Punjab Kings,Kolkata Knight Riders,Eden Gardens,152,58,4.7,2,0
+Kolkata Knight Riders,Punjab Kings,Eden Gardens,177,58,18.6,5,0
+Rajasthan Royals,Chennai Super Kings,Feroz Shah Kotla,193,189,2.9,7,1
+Kolkata Knight Riders,Chennai Super Kings,Wankhede Stadium,121,41,1.4,8,0
+Delhi Capitals,Rajasthan Royals,Narendra Modi Stadium,196,191,19.9,9,1
+Kolkata Knight Riders,Delhi Capitals,MA Chidambaram Stadium,138,104,4.0,8,1
+Chennai Super Kings,Rajasthan Royals,Eden Gardens,189,2,7.3,7,0
+Royal Challengers Bangalore,Kolkata Knight Riders,MA Chidambaram Stadium,195,189,5.5,2,1
+Royal Challengers Bangalore,Rajasthan Royals,Eden Gardens,148,138,5.6,8,1
+Sunrisers Hyderabad,Rajasthan Royals,Narendra Modi Stadium,204,81,11.0,5,0
+Royal Challengers Bangalore,Rajasthan Royals,Eden Gardens,175,39,11.4,0,0
+Kolkata Knight Riders,Rajasthan Royals,Wankhede Stadium,202,150,11.4,5,1
+Punjab Kings,Rajasthan Royals,MA Chidambaram Stadium,199,199,2.1,0,1
+Rajasthan Royals,Mumbai Indians,Feroz Shah Kotla,193,134,3.8,10,1
+Delhi Capitals,Rajasthan Royals,M. Chinnaswamy Stadium,127,55,19.9,2,0
+Sunrisers Hyderabad,Delhi Capitals,Feroz Shah Kotla,204,90,6.6,8,0
+Delhi Capitals,Punjab Kings,Narendra Modi Stadium,213,37,17.1,1,0
+Punjab Kings,Rajasthan Royals,M. Chinnaswamy Stadium,139,61,11.3,4,0
+Rajasthan Royals,Punjab Kings,Feroz Shah Kotla,120,22,12.0,9,1
+Rajasthan Royals,Delhi Capitals,Eden Gardens,179,39,3.2,4,0
+Chennai Super Kings,Kolkata Knight Riders,M. Chinnaswamy Stadium,152,135,11.9,5,1
+Sunrisers Hyderabad,Chennai Super Kings,M. Chinnaswamy Stadium,209,102,5.7,0,0
+Delhi Capitals,Sunrisers Hyderabad,Wankhede Stadium,169,153,7.9,5,1
+Mumbai Indians,Sunrisers Hyderabad,MA Chidambaram Stadium,195,40,15.7,1,0
+Delhi Capitals,Royal Challengers Bangalore,Wankhede Stadium,136,128,16.6,8,1
+Sunrisers Hyderabad,Mumbai Indians,Feroz Shah Kotla,198,140,14.0,1,1
+Chennai Super Kings,Kolkata Knight Riders,Narendra Modi Stadium,220,130,18.5,7,1
+Royal Challengers Bangalore,Punjab Kings,Wankhede Stadium,186,126,14.5,1,1
+Sunrisers Hyderabad,Mumbai Indians,M. Chinnaswamy Stadium,198,136,3.1,1,0
+Mumbai Indians,Kolkata Knight Riders,Eden Gardens,129,9,9.1,3,0
+Sunrisers Hyderabad,Royal Challengers Bangalore,M. Chinnaswamy Stadium,129,104,15.3,3,1
+Kolkata Knight Riders,Chennai Super Kings,Eden Gardens,155,122,19.5,1,1

@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>IPL Match Predictor</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #1e3c72, #2a5298);
+      font-family: 'Segoe UI', sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+      color: white;
+    }
+    .container {
+      background: rgba(255, 255, 255, 0.05);
+      padding: 30px 40px;
+      border-radius: 15px;
+      box-shadow: 0 0 20px rgba(0, 255, 255, 0.2);
+      backdrop-filter: blur(10px);
+      width: 100%;
+      max-width: 400px;
+      text-align: center;
+    }
+    h2 {
+      margin-bottom: 20px;
+    }
+    label {
+      display: block;
+      margin: 10px 0 5px;
+      text-align: left;
+    }
+    select, input[type="number"] {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 10px;
+      border: none;
+      border-radius: 8px;
+    }
+    input[type="submit"] {
+      background: #00f0ff;
+      border: none;
+      padding: 10px 20px;
+      color: black;
+      border-radius: 8px;
+      font-weight: bold;
+      cursor: pointer;
+      transition: box-shadow 0.3s ease;
+    }
+    input[type="submit"]:hover {
+      box-shadow: 0 0 15px 3px rgba(0, 255, 255, 0.7);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h2>🏏 IPL Match Outcome Predictor</h2>
+    <form action="/predict" method="post">
+      <label>Batting Team:</label>
+      <select name="batting_team">
+        {% for team in teams %}
+          <option value="{{ team }}">{{ team }}</option>
+        {% endfor %}
+      </select>
+
+      <label>Bowling Team:</label>
+      <select name="bowling_team">
+        {% for team in teams %}
+          <option value="{{ team }}">{{ team }}</option>
+        {% endfor %}
+      </select>
+
+      <label>Venue:</label>
+      <select name="venue">
+        {% for venue in venues %}
+          <option value="{{ venue }}">{{ venue }}</option>
+        {% endfor %}
+      </select>
+
+      <label>Target Score:</label>
+      <input type="number" name="target_score" required>
+
+      <label>Current Score:</label>
+      <input type="number" name="current_score" required>
+
+      <label>Overs Left:</label>
+      <input type="number" step="0.1" name="overs_left" required>
+
+      <label>Wickets Left:</label>
+      <input type="number" name="wickets_left" required>
+
+      <input type="submit" value="Predict Winner">
+    </form>
+  </div>
+</body>
+</html>
